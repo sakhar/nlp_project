@@ -1,0 +1,962 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="true_label" type="string" />
+      <attribute id="1" title="predicted_correctly" type="string" />
+      <attribute id="2" title="predicted_label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="PHILIPPA" label="PHILIPPA" />
+      <node id="EAMES" label="EAMES" />
+      <node id="FRANCIS BACON" label="FRANCIS BACON" />
+      <node id="BROWNING" label="BROWNING" />
+      <node id="GRANDMA'S VOICE" label="GRANDMA'S VOICE" />
+      <node id="MAL - MAL" label="MAL - MAL" />
+      <node id="EDITH PIAF" label="EDITH PIAF" />
+      <node id="MAURICE FISCHER" label="MAURICE FISCHER" />
+      <node id="MAL - FISCHER" label="MAL - FISCHER" />
+      <node id="LITTLE GIRL" label="LITTLE GIRL" />
+      <node id="MILES" label="MILES" />
+      <node id="LAWYER" label="LAWYER" />
+      <node id="SECURITY GUARD" label="SECURITY GUARD" />
+      <node id="SAITO" label="SAITO" />
+      <node id="ARTHUR HAS" label="ARTHUR HAS" />
+      <node id="MAURICE" label="MAURICE" />
+      <node id="ROBERT" label="ROBERT" />
+      <node id="SECOND BUSINESSMAN" label="SECOND BUSINESSMAN" />
+      <node id="ARTHUR" label="ARTHUR" />
+      <node id="COBB JUMPS" label="COBB JUMPS" />
+      <node id="NASH - SAITO" label="NASH - SAITO" />
+      <node id="DISSOLVE TO:" label="DISSOLVE TO:" />
+      <node id="BALD MAN" label="BALD MAN" />
+      <node id="ARIADNE" label="ARIADNE" />
+      <node id="FLIGHT ATTENDANT" label="FLIGHT ATTENDANT" />
+      <node id="ELDERLY JAPANESE MAN" label="ELDERLY JAPANESE MAN" />
+      <node id="TODASHI" label="TODASHI" />
+      <node id="JAMES" label="JAMES" />
+      <node id="ROBERT FISCHER" label="ROBERT FISCHER" />
+      <node id="FATHER" label="FATHER" />
+      <node id="CABDRIVER" label="CABDRIVER" />
+      <node id="BLONDE" label="BLONDE" />
+      <node id="NASH" label="NASH" />
+      <node id="FISCHER" label="FISCHER" />
+      <node id="CHILDREN'S VOICES" label="CHILDREN'S VOICES" />
+      <node id="YUSUF" label="YUSUF" />
+      <node id="MAL" label="MAL" />
+      <node id="THIN MAN" label="THIN MAN" />
+      <node id="ELDERLY BALD MAN" label="ELDERLY BALD MAN" />
+      <node id="COBB" label="COBB" />
+      <node id="ATTENDANT" label="ATTENDANT" />
+    </nodes>
+    <edges>
+      <edge id="0" source="PHILIPPA" target="CHILDREN'S VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="PHILIPPA" target="LITTLE GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="PHILIPPA" target="JAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="PHILIPPA" target="GRANDMA'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="PHILIPPA" target="ARTHUR" weight="1" />
+      <edge id="5" source="PHILIPPA" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="EAMES" target="FATHER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="EAMES" target="ROBERT FISCHER" weight="2" />
+      <edge id="8" source="EAMES" target="SAITO" weight="16">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="EAMES" target="FISCHER" weight="11">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="EAMES" target="MAURICE" weight="1" />
+      <edge id="11" source="EAMES" target="YUSUF" weight="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="EAMES" target="ROBERT" weight="2" />
+      <edge id="13" source="EAMES" target="BROWNING" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="EAMES" target="MAURICE FISCHER" weight="1" />
+      <edge id="15" source="EAMES" target="MAL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="EAMES" target="ARTHUR" weight="12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="EAMES" target="ELDERLY BALD MAN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="EAMES" target="ARIADNE" weight="8">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="EAMES" target="COBB" weight="26">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="EAMES" target="BALD MAN" weight="1" />
+      <edge id="21" source="BROWNING" target="FISCHER" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="BROWNING" target="LAWYER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="BROWNING" target="EAMES" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="BROWNING" target="MAURICE" weight="1" />
+      <edge id="25" source="BROWNING" target="FATHER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="BROWNING" target="MAURICE FISCHER" weight="1" />
+      <edge id="27" source="BROWNING" target="ROBERT FISCHER" weight="1" />
+      <edge id="28" source="BROWNING" target="ARTHUR" weight="2" />
+      <edge id="29" source="BROWNING" target="ARIADNE" weight="1" />
+      <edge id="30" source="BROWNING" target="COBB" weight="3" />
+      <edge id="31" source="BROWNING" target="MAL" weight="1" />
+      <edge id="32" source="BROWNING" target="SAITO" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="GRANDMA'S VOICE" target="PHILIPPA" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="GRANDMA'S VOICE" target="LITTLE GIRL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="GRANDMA'S VOICE" target="JAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="GRANDMA'S VOICE" target="ARTHUR" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="GRANDMA'S VOICE" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="GRANDMA'S VOICE" target="CHILDREN'S VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="LITTLE GIRL" target="PHILIPPA" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="LITTLE GIRL" target="JAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="LITTLE GIRL" target="ARTHUR" weight="1" />
+      <edge id="42" source="LITTLE GIRL" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="LITTLE GIRL" target="GRANDMA'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="LITTLE GIRL" target="CHILDREN'S VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="MILES" target="ARIADNE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="MILES" target="COBB" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="LAWYER" target="BROWNING" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="LAWYER" target="MAURICE FISCHER" weight="1" />
+      <edge id="49" source="LAWYER" target="EAMES" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="LAWYER" target="SAITO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="SECURITY GUARD" target="ATTENDANT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="SECURITY GUARD" target="ELDERLY JAPANESE MAN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="SAITO" target="ARTHUR HAS" weight="1" />
+      <edge id="54" source="SAITO" target="SECOND BUSINESSMAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="SAITO" target="LAWYER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="SAITO" target="EAMES" weight="9">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="SAITO" target="BROWNING" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="SAITO" target="MAURICE FISCHER" weight="1" />
+      <edge id="59" source="SAITO" target="ARTHUR" weight="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="SAITO" target="COBB JUMPS" weight="1" />
+      <edge id="61" source="SAITO" target="NASH - SAITO" weight="1" />
+      <edge id="62" source="SAITO" target="BALD MAN" weight="1" />
+      <edge id="63" source="SAITO" target="ARIADNE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="SAITO" target="FISCHER" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="SAITO" target="YUSUF" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="SAITO" target="ELDERLY BALD MAN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="SAITO" target="COBB" weight="24">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="SAITO" target="NASH" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="SAITO" target="MAL" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="SECOND BUSINESSMAN" target="COBB JUMPS" weight="1" />
+      <edge id="71" source="SECOND BUSINESSMAN" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="SECOND BUSINESSMAN" target="SAITO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="ARTHUR" target="FISCHER" weight="7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="ARTHUR" target="PHILIPPA" weight="1" />
+      <edge id="75" source="ARTHUR" target="EAMES" weight="11">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="ARTHUR" target="JAMES" weight="1" />
+      <edge id="77" source="ARTHUR" target="CHILDREN'S VOICES" weight="1" />
+      <edge id="78" source="ARTHUR" target="BROWNING" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="ARTHUR" target="SAITO" weight="17">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="ARTHUR" target="LITTLE GIRL" weight="1" />
+      <edge id="81" source="ARTHUR" target="YUSUF" weight="9">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="ARTHUR" target="MAL" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="ARTHUR" target="ARIADNE" weight="17">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="ARTHUR" target="COBB" weight="27">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="ARTHUR" target="GRANDMA'S VOICE" weight="1" />
+      <edge id="86" source="ARTHUR" target="NASH" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="ARTHUR" target="TODASHI" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="DISSOLVE TO:" target="ARTHUR" weight="1" />
+      <edge id="89" source="DISSOLVE TO:" target="EAMES" weight="1" />
+      <edge id="90" source="ARIADNE" target="FISCHER" weight="10">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="ARIADNE" target="EAMES" weight="9">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="ARIADNE" target="BROWNING" weight="1" />
+      <edge id="93" source="ARIADNE" target="MAL - MAL" weight="1" />
+      <edge id="94" source="ARIADNE" target="SAITO" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="ARIADNE" target="MAL - FISCHER" weight="1" />
+      <edge id="96" source="ARIADNE" target="THIN MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="ARIADNE" target="ARTHUR" weight="18">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="ARIADNE" target="MILES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="ARIADNE" target="COBB" weight="38">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="ARIADNE" target="YUSUF" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="ARIADNE" target="MAL" weight="12">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="FLIGHT ATTENDANT" target="FISCHER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="FLIGHT ATTENDANT" target="COBB" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="FLIGHT ATTENDANT" target="SAITO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="ELDERLY JAPANESE MAN" target="ATTENDANT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="ELDERLY JAPANESE MAN" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="ELDERLY JAPANESE MAN" target="SECURITY GUARD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="TODASHI" target="ARTHUR" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="JAMES" target="PHILIPPA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="JAMES" target="LITTLE GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="JAMES" target="ARTHUR" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="JAMES" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="JAMES" target="GRANDMA'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="JAMES" target="CHILDREN'S VOICES" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="FATHER" target="ROBERT FISCHER" weight="1" />
+      <edge id="116" source="FATHER" target="BROWNING" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="FATHER" target="FISCHER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="FATHER" target="EAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="FATHER" target="MAURICE" weight="1" />
+      <edge id="120" source="CABDRIVER" target="ARTHUR" weight="1" />
+      <edge id="121" source="CABDRIVER" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="BLONDE" target="FISCHER" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="BLONDE" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="BLONDE" target="SAITO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="NASH" target="SAITO" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="NASH" target="ARTHUR" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="NASH" target="NASH - SAITO" weight="1" />
+      <edge id="128" source="NASH" target="COBB" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="NASH" target="TODASHI" weight="1" />
+      <edge id="130" source="FISCHER" target="COBB" weight="13">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="FISCHER" target="EAMES" weight="7">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="FISCHER" target="MAURICE" weight="1" />
+      <edge id="133" source="FISCHER" target="YUSUF" weight="1" />
+      <edge id="134" source="FISCHER" target="BROWNING" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="FISCHER" target="FATHER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="FISCHER" target="SAITO" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="FISCHER" target="ROBERT FISCHER" weight="1" />
+      <edge id="138" source="FISCHER" target="ARTHUR" weight="6">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="FISCHER" target="MAL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="FISCHER" target="ARIADNE" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="FISCHER" target="BLONDE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="FISCHER" target="FLIGHT ATTENDANT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="CHILDREN'S VOICES" target="PHILIPPA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="CHILDREN'S VOICES" target="JAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="CHILDREN'S VOICES" target="LITTLE GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="CHILDREN'S VOICES" target="ARTHUR" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="CHILDREN'S VOICES" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="CHILDREN'S VOICES" target="GRANDMA'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="YUSUF" target="FISCHER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="YUSUF" target="EAMES" weight="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="YUSUF" target="ROBERT" weight="1" />
+      <edge id="152" source="YUSUF" target="BROWNING" weight="1" />
+      <edge id="153" source="YUSUF" target="MAURICE FISCHER" weight="1" />
+      <edge id="154" source="YUSUF" target="EDITH PIAF" weight="1" />
+      <edge id="155" source="YUSUF" target="SAITO" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="YUSUF" target="ARTHUR" weight="12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="YUSUF" target="ELDERLY BALD MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="YUSUF" target="ARIADNE" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="YUSUF" target="COBB" weight="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="YUSUF" target="BALD MAN" weight="1" />
+      <edge id="161" source="MAL" target="PHILIPPA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="MAL" target="FRANCIS BACON" weight="1" />
+      <edge id="163" source="MAL" target="JAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="MAL" target="MAL - MAL" weight="1" />
+      <edge id="165" source="MAL" target="SAITO" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="MAL" target="MAL - FISCHER" weight="1" />
+      <edge id="167" source="MAL" target="ARTHUR" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="MAL" target="ARIADNE" weight="6">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="MAL" target="COBB" weight="14">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="MAL" target="FISCHER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="THIN MAN" target="JAMES" weight="1" />
+      <edge id="172" source="THIN MAN" target="PHILIPPA" weight="1" />
+      <edge id="173" source="THIN MAN" target="COBB" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="THIN MAN" target="ARIADNE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="ELDERLY BALD MAN" target="YUSUF" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="ELDERLY BALD MAN" target="BALD MAN" weight="1" />
+      <edge id="177" source="ELDERLY BALD MAN" target="COBB" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="ELDERLY BALD MAN" target="EAMES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="ELDERLY BALD MAN" target="SAITO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="COBB" target="PHILIPPA" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="COBB" target="EAMES" weight="28">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="COBB" target="FRANCIS BACON" weight="1" />
+      <edge id="183" source="COBB" target="BROWNING" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="COBB" target="MAL - MAL" weight="1" />
+      <edge id="185" source="COBB" target="MAL - FISCHER" weight="1" />
+      <edge id="186" source="COBB" target="LITTLE GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="COBB" target="MILES" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="COBB" target="GRANDMA'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="COBB" target="SAITO" weight="30">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="COBB" target="ROBERT" weight="1" />
+      <edge id="191" source="COBB" target="SECOND BUSINESSMAN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="COBB" target="MAURICE FISCHER" weight="1" />
+      <edge id="193" source="COBB" target="ARTHUR" weight="32">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="COBB" target="COBB JUMPS" weight="1" />
+      <edge id="195" source="COBB" target="NASH - SAITO" weight="1" />
+      <edge id="196" source="COBB" target="JAMES" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="COBB" target="BALD MAN" weight="1" />
+      <edge id="198" source="COBB" target="FLIGHT ATTENDANT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="COBB" target="ELDERLY JAPANESE MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="COBB" target="CABDRIVER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="COBB" target="BLONDE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="COBB" target="FISCHER" weight="24">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="COBB" target="CHILDREN'S VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="COBB" target="YUSUF" weight="11">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="COBB" target="THIN MAN" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="COBB" target="ELDERLY BALD MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="COBB" target="ARIADNE" weight="37">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="COBB" target="NASH" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="COBB" target="MAL" weight="21">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="COBB" target="TODASHI" weight="1" />
+      <edge id="211" source="ATTENDANT" target="ELDERLY JAPANESE MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="ATTENDANT" target="SECURITY GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

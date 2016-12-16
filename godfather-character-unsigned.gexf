@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="C_GATTO" label="C_GATTO" />
+      <node id="C_MICHAEL" label="C_MICHAEL" />
+      <node id="C_DON TOMMASSINO" label="C_DON TOMMASSINO" />
+      <node id="C_PAULIE" label="C_PAULIE" />
+      <node id="C_SONNY CORLEONE" label="C_SONNY CORLEONE" />
+      <node id="C_PRIEST" label="C_PRIEST" />
+      <node id="C_ENZO" label="C_ENZO" />
+      <node id="C_DON" label="C_DON" />
+      <node id="C_BARZINI" label="C_BARZINI" />
+      <node id="C_MCCLUSKEY" label="C_MCCLUSKEY" />
+      <node id="C_THE GODFATHER" label="C_THE GODFATHER" />
+      <node id="C_KAY" label="C_KAY" />
+      <node id="C_APPOLONIA" label="C_APPOLONIA" />
+      <node id="C_BRUNO TATTAGLIA" label="C_BRUNO TATTAGLIA" />
+      <node id="C_JOSEPH ZALUCHI" label="C_JOSEPH ZALUCHI" />
+      <node id="C_CUNEO" label="C_CUNEO" />
+      <node id="C_ANTHONY STRACCI" label="C_ANTHONY STRACCI" />
+      <node id="C_MANCINI" label="C_MANCINI" />
+      <node id="C_BRUNO" label="C_BRUNO" />
+      <node id="C_LEWIS" label="C_LEWIS" />
+      <node id="C_FREDO" label="C_FREDO" />
+      <node id="C_MAN 2" label="C_MAN 2" />
+      <node id="C_EMILIO BARZINI" label="C_EMILIO BARZINI" />
+      <node id="C_MARY" label="C_MARY" />
+      <node id="C_DON VINCENENZO FORLENZA" label="C_DON VINCENENZO FORLENZA" />
+      <node id="C_CORLEONE" label="C_CORLEONE" />
+      <node id="C_LUCY MANCINI" label="C_LUCY MANCINI" />
+      <node id="C_GIRL" label="C_GIRL" />
+      <node id="C_LUNA AZURA" label="C_LUNA AZURA" />
+      <node id="C_GENCO" label="C_GENCO" />
+      <node id="C_PETER CLEMENZA" label="C_PETER CLEMENZA" />
+      <node id="C_CARLO RIZZI" label="C_CARLO RIZZI" />
+      <node id="C_ROCCO" label="C_ROCCO" />
+      <node id="C_TATTAGLIA" label="C_TATTAGLIA" />
+      <node id="C_LUCY" label="C_LUCY" />
+      <node id="C_MOE" label="C_MOE" />
+      <node id="C_HAGEN" label="C_HAGEN" />
+      <node id="C_DRIVER" label="C_DRIVER" />
+      <node id="C_NURSE" label="C_NURSE" />
+      <node id="C_LUCA" label="C_LUCA" />
+      <node id="C_SONNY" label="C_SONNY" />
+      <node id="C_BAKER" label="C_BAKER" />
+      <node id="C_CLEMENZA" label="C_CLEMENZA" />
+      <node id="C_CONNIE" label="C_CONNIE" />
+      <node id="C_OFFICE MANAGER" label="C_OFFICE MANAGER" />
+      <node id="C_SOLLOZZO" label="C_SOLLOZZO" />
+      <node id="C_MAN" label="C_MAN" />
+      <node id="C_AMERIGO BONASERA" label="C_AMERIGO BONASERA" />
+      <node id="C_MAMA" label="C_MAMA" />
+      <node id="C_COP" label="C_COP" />
+      <node id="C_LAMPONE" label="C_LAMPONE" />
+      <node id="C_GRETEL" label="C_GRETEL" />
+      <node id="C_FABRIZZIO" label="C_FABRIZZIO" />
+      <node id="C_JOHNNY FONTANE" label="C_JOHNNY FONTANE" />
+      <node id="C_PAULIE GATTO" label="C_PAULIE GATTO" />
+      <node id="C_THERESA HAGEN" label="C_THERESA HAGEN" />
+      <node id="C_CALO" label="C_CALO" />
+      <node id="C_TESSIO" label="C_TESSIO" />
+      <node id="C_VOICE" label="C_VOICE" />
+      <node id="C_NERI" label="C_NERI" />
+      <node id="C_DON CORLEONE" label="C_DON CORLEONE" />
+      <node id="C_A DETECTIVE" label="C_A DETECTIVE" />
+      <node id="C_ANTHONY MOLINARI" label="C_ANTHONY MOLINARI" />
+      <node id="C_FRANK FALCONE" label="C_FRANK FALCONE" />
+      <node id="C_CONNIE'S VOICE" label="C_CONNIE'S VOICE" />
+      <node id="C_MRS. BONASERA" label="C_MRS. BONASERA" />
+      <node id="C_DON ZALUCHI" label="C_DON ZALUCHI" />
+      <node id="C_NAZORINE" label="C_NAZORINE" />
+      <node id="C_OTTILIO CUNEO" label="C_OTTILIO CUNEO" />
+      <node id="C_GREENE" label="C_GREENE" />
+      <node id="C_DOMENICK PANZA" label="C_DOMENICK PANZA" />
+      <node id="C_JOHNNY" label="C_JOHNNY" />
+      <node id="C_BONASERA" label="C_BONASERA" />
+      <node id="C_ROCCO LAMPONE" label="C_ROCCO LAMPONE" />
+      <node id="C_CARLO" label="C_CARLO" />
+      <node id="C_DON PHILLIP TATTAGLIA" label="C_DON PHILLIP TATTAGLIA" />
+      <node id="C_LUCA NODS" label="C_LUCA NODS" />
+      <node id="C_SANDRA" label="C_SANDRA" />
+      <node id="C_TOM HAGEN" label="C_TOM HAGEN" />
+      <node id="C_THERESA" label="C_THERESA" />
+      <node id="C_MIKE" label="C_MIKE" />
+      <node id="C_BUTTON MAN" label="C_BUTTON MAN" />
+      <node id="C_VITELLI" label="C_VITELLI" />
+      <node id="C_WOMAN" label="C_WOMAN" />
+      <node id="C_DEN" label="C_DEN" />
+      <node id="C_WOLTZ" label="C_WOLTZ" />
+      <node id="C_LUCA BRASI" label="C_LUCA BRASI" />
+      <node id="C_KAY ADAMS" label="C_KAY ADAMS" />
+    </nodes>
+    <edges>
+      <edge id="0" source="C_MICHAEL" target="C_BAKER" weight="1" />
+      <edge id="1" source="C_MICHAEL" target="C_FREDO" weight="2" />
+      <edge id="2" source="C_MICHAEL" target="C_GREENE" weight="1" />
+      <edge id="3" source="C_MICHAEL" target="C_SOLLOZZO" weight="2" />
+      <edge id="4" source="C_MICHAEL" target="C_JOHNNY" weight="3" />
+      <edge id="5" source="C_MICHAEL" target="C_DON TOMMASSINO" weight="3" />
+      <edge id="6" source="C_MICHAEL" target="C_CARLO" weight="2" />
+      <edge id="7" source="C_MICHAEL" target="C_MARY" weight="1" />
+      <edge id="8" source="C_MICHAEL" target="C_ENZO" weight="2" />
+      <edge id="9" source="C_MICHAEL" target="C_LAMPONE" weight="3" />
+      <edge id="10" source="C_MICHAEL" target="C_TOM HAGEN" weight="4" />
+      <edge id="11" source="C_MICHAEL" target="C_THERESA" weight="2" />
+      <edge id="12" source="C_MICHAEL" target="C_MIKE" weight="1" />
+      <edge id="13" source="C_MICHAEL" target="C_CORLEONE" weight="2" />
+      <edge id="14" source="C_MICHAEL" target="C_MCCLUSKEY" weight="3" />
+      <edge id="15" source="C_MICHAEL" target="C_VITELLI" weight="1" />
+      <edge id="16" source="C_MICHAEL" target="C_PAULIE GATTO" weight="1" />
+      <edge id="17" source="C_MICHAEL" target="C_LUNA AZURA" weight="2" />
+      <edge id="18" source="C_MICHAEL" target="C_DEN" weight="1" />
+      <edge id="19" source="C_MICHAEL" target="C_KAY" weight="3" />
+      <edge id="20" source="C_MICHAEL" target="C_THERESA HAGEN" weight="1" />
+      <edge id="21" source="C_MICHAEL" target="C_CALO" weight="4" />
+      <edge id="22" source="C_MICHAEL" target="C_TESSIO" weight="1" />
+      <edge id="23" source="C_MICHAEL" target="C_NERI" weight="5" />
+      <edge id="24" source="C_MICHAEL" target="C_JOHNNY FONTANE" weight="2" />
+      <edge id="25" source="C_MICHAEL" target="C_DON CORLEONE" weight="5" />
+      <edge id="26" source="C_MICHAEL" target="C_HAGEN" weight="12" />
+      <edge id="27" source="C_MICHAEL" target="C_DON" weight="16" />
+      <edge id="28" source="C_MICHAEL" target="C_LUCA BRASI" weight="1" />
+      <edge id="29" source="C_MICHAEL" target="C_LUCA" weight="1" />
+      <edge id="30" source="C_MICHAEL" target="C_SONNY" weight="6" />
+      <edge id="31" source="C_DON TOMMASSINO" target="C_MICHAEL" weight="2" />
+      <edge id="32" source="C_PAULIE" target="C_PETER CLEMENZA" weight="1" />
+      <edge id="33" source="C_PAULIE" target="C_CARLO RIZZI" weight="1" />
+      <edge id="34" source="C_PAULIE" target="C_PAULIE GATTO" weight="2" />
+      <edge id="35" source="C_PAULIE" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="36" source="C_PAULIE" target="C_BARZINI" weight="1" />
+      <edge id="37" source="C_PAULIE" target="C_LAMPONE" weight="2" />
+      <edge id="38" source="C_PAULIE" target="C_LUCY MANCINI" weight="1" />
+      <edge id="39" source="C_PAULIE" target="C_SANDRA" weight="1" />
+      <edge id="40" source="C_PAULIE" target="C_SOLLOZZO" weight="1" />
+      <edge id="41" source="C_PAULIE" target="C_DON CORLEONE" weight="1" />
+      <edge id="42" source="C_PAULIE" target="C_MICHAEL" weight="1" />
+      <edge id="43" source="C_PAULIE" target="C_GATTO" weight="1" />
+      <edge id="44" source="C_PAULIE" target="C_ROCCO" weight="1" />
+      <edge id="45" source="C_PAULIE" target="C_ROCCO LAMPONE" weight="1" />
+      <edge id="46" source="C_PAULIE" target="C_LUCA BRASI" weight="1" />
+      <edge id="47" source="C_PAULIE" target="C_DON" weight="1" />
+      <edge id="48" source="C_PAULIE" target="C_HAGEN" weight="1" />
+      <edge id="49" source="C_PAULIE" target="C_SONNY" weight="2" />
+      <edge id="50" source="C_PRIEST" target="C_MICHAEL" weight="3" />
+      <edge id="51" source="C_PRIEST" target="C_CUNEO" weight="1" />
+      <edge id="52" source="C_ENZO" target="C_MICHAEL" weight="1" />
+      <edge id="53" source="C_BARZINI" target="C_DON CORLEONE" weight="1" />
+      <edge id="54" source="C_BARZINI" target="C_OTTILIO CUNEO" weight="1" />
+      <edge id="55" source="C_BARZINI" target="C_ANTHONY MOLINARI" weight="1" />
+      <edge id="56" source="C_BARZINI" target="C_FRANK FALCONE" weight="1" />
+      <edge id="57" source="C_BARZINI" target="C_JOSEPH ZALUCHI" weight="1" />
+      <edge id="58" source="C_BARZINI" target="C_DOMENICK PANZA" weight="1" />
+      <edge id="59" source="C_BARZINI" target="C_EMILIO BARZINI" weight="1" />
+      <edge id="60" source="C_BARZINI" target="C_DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="61" source="C_BARZINI" target="C_HAGEN" weight="1" />
+      <edge id="62" source="C_BARZINI" target="C_TOM HAGEN" weight="1" />
+      <edge id="63" source="C_BARZINI" target="C_DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="64" source="C_BARZINI" target="C_DON" weight="1" />
+      <edge id="65" source="C_BARZINI" target="C_ANTHONY STRACCI" weight="1" />
+      <edge id="66" source="C_MCCLUSKEY" target="C_BAKER" weight="1" />
+      <edge id="67" source="C_MCCLUSKEY" target="C_MICHAEL" weight="3" />
+      <edge id="68" source="C_MCCLUSKEY" target="C_SOLLOZZO" weight="1" />
+      <edge id="69" source="C_MCCLUSKEY" target="C_LUNA AZURA" weight="1" />
+      <edge id="70" source="C_MCCLUSKEY" target="C_ENZO" weight="1" />
+      <edge id="71" source="C_MCCLUSKEY" target="C_MIKE" weight="1" />
+      <edge id="72" source="C_MCCLUSKEY" target="C_DON" weight="1" />
+      <edge id="73" source="C_MCCLUSKEY" target="C_HAGEN" weight="1" />
+      <edge id="74" source="C_THE GODFATHER" target="C_DON CORLEONE" weight="1" />
+      <edge id="75" source="C_THE GODFATHER" target="C_HAGEN" weight="1" />
+      <edge id="76" source="C_THE GODFATHER" target="C_DON" weight="1" />
+      <edge id="77" source="C_THE GODFATHER" target="C_TOM HAGEN" weight="1" />
+      <edge id="78" source="C_THE GODFATHER" target="C_BONASERA" weight="1" />
+      <edge id="79" source="C_THE GODFATHER" target="C_AMERIGO BONASERA" weight="1" />
+      <edge id="80" source="C_THE GODFATHER" target="C_SONNY CORLEONE" weight="1" />
+      <edge id="81" source="C_THE GODFATHER" target="C_SONNY" weight="1" />
+      <edge id="82" source="C_KAY" target="C_JOHNNY FONTANE" weight="1" />
+      <edge id="83" source="C_KAY" target="C_DON CORLEONE" weight="1" />
+      <edge id="84" source="C_KAY" target="C_LUCA" weight="1" />
+      <edge id="85" source="C_KAY" target="C_MICHAEL" weight="8" />
+      <edge id="86" source="C_KAY" target="C_KAY ADAMS" weight="1" />
+      <edge id="87" source="C_KAY" target="C_TOM HAGEN" weight="2" />
+      <edge id="88" source="C_KAY" target="C_JOHNNY" weight="1" />
+      <edge id="89" source="C_KAY" target="C_NERI" weight="1" />
+      <edge id="90" source="C_KAY" target="C_HAGEN" weight="3" />
+      <edge id="91" source="C_KAY" target="C_CORLEONE" weight="1" />
+      <edge id="92" source="C_KAY" target="C_LUCA BRASI" weight="1" />
+      <edge id="93" source="C_KAY" target="C_DON" weight="3" />
+      <edge id="94" source="C_KAY" target="C_MARY" weight="1" />
+      <edge id="95" source="C_KAY" target="C_SONNY" weight="3" />
+      <edge id="96" source="C_APPOLONIA" target="C_MICHAEL" weight="3" />
+      <edge id="97" source="C_APPOLONIA" target="C_CALO" weight="1" />
+      <edge id="98" source="C_APPOLONIA" target="C_VITELLI" weight="1" />
+      <edge id="99" source="C_APPOLONIA" target="C_DON TOMMASSINO" weight="1" />
+      <edge id="100" source="C_BRUNO" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="101" source="C_BRUNO" target="C_MICHAEL" weight="1" />
+      <edge id="102" source="C_BRUNO" target="C_PAULIE GATTO" weight="1" />
+      <edge id="103" source="C_BRUNO" target="C_HAGEN" weight="1" />
+      <edge id="104" source="C_BRUNO" target="C_LUCA BRASI" weight="1" />
+      <edge id="105" source="C_BRUNO" target="C_DON" weight="1" />
+      <edge id="106" source="C_FREDO" target="C_LEWIS" weight="1" />
+      <edge id="107" source="C_FREDO" target="C_DON CORLEONE" weight="1" />
+      <edge id="108" source="C_FREDO" target="C_JOHNNY FONTANE" weight="1" />
+      <edge id="109" source="C_FREDO" target="C_HAGEN" weight="4" />
+      <edge id="110" source="C_FREDO" target="C_NERI" weight="1" />
+      <edge id="111" source="C_FREDO" target="C_TOM HAGEN" weight="1" />
+      <edge id="112" source="C_FREDO" target="C_JOHNNY" weight="1" />
+      <edge id="113" source="C_FREDO" target="C_MICHAEL" weight="4" />
+      <edge id="114" source="C_FREDO" target="C_GREENE" weight="1" />
+      <edge id="115" source="C_FREDO" target="C_DON" weight="2" />
+      <edge id="116" source="C_FREDO" target="C_SONNY" weight="1" />
+      <edge id="117" source="C_MAN 2" target="C_MICHAEL" weight="1" />
+      <edge id="118" source="C_GIRL" target="C_MICHAEL" weight="1" />
+      <edge id="119" source="C_GIRL" target="C_TESSIO" weight="1" />
+      <edge id="120" source="C_GIRL" target="C_NERI" weight="1" />
+      <edge id="121" source="C_GENCO" target="C_DON CORLEONE" weight="1" />
+      <edge id="122" source="C_GENCO" target="C_JOHNNY" weight="1" />
+      <edge id="123" source="C_TATTAGLIA" target="C_DON CORLEONE" weight="1" />
+      <edge id="124" source="C_TATTAGLIA" target="C_OTTILIO CUNEO" weight="1" />
+      <edge id="125" source="C_TATTAGLIA" target="C_ANTHONY MOLINARI" weight="1" />
+      <edge id="126" source="C_TATTAGLIA" target="C_FRANK FALCONE" weight="1" />
+      <edge id="127" source="C_TATTAGLIA" target="C_JOSEPH ZALUCHI" weight="1" />
+      <edge id="128" source="C_TATTAGLIA" target="C_DOMENICK PANZA" weight="1" />
+      <edge id="129" source="C_TATTAGLIA" target="C_EMILIO BARZINI" weight="1" />
+      <edge id="130" source="C_TATTAGLIA" target="C_DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="131" source="C_TATTAGLIA" target="C_HAGEN" weight="1" />
+      <edge id="132" source="C_TATTAGLIA" target="C_TOM HAGEN" weight="1" />
+      <edge id="133" source="C_TATTAGLIA" target="C_DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="134" source="C_TATTAGLIA" target="C_DON" weight="1" />
+      <edge id="135" source="C_TATTAGLIA" target="C_ANTHONY STRACCI" weight="1" />
+      <edge id="136" source="C_LUCY" target="C_DON" weight="1" />
+      <edge id="137" source="C_MOE" target="C_MICHAEL" weight="1" />
+      <edge id="138" source="C_MOE" target="C_GREENE" weight="1" />
+      <edge id="139" source="C_MOE" target="C_NERI" weight="1" />
+      <edge id="140" source="C_MOE" target="C_JOHNNY" weight="1" />
+      <edge id="141" source="C_HAGEN" target="C_DON CORLEONE" weight="6" />
+      <edge id="142" source="C_HAGEN" target="C_LUCA" weight="1" />
+      <edge id="143" source="C_HAGEN" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="144" source="C_HAGEN" target="C_THERESA" weight="1" />
+      <edge id="145" source="C_HAGEN" target="C_MICHAEL" weight="9" />
+      <edge id="146" source="C_HAGEN" target="C_KAY ADAMS" weight="1" />
+      <edge id="147" source="C_HAGEN" target="C_AMERIGO BONASERA" weight="1" />
+      <edge id="148" source="C_HAGEN" target="C_TOM HAGEN" weight="5" />
+      <edge id="149" source="C_HAGEN" target="C_GRETEL" weight="1" />
+      <edge id="150" source="C_HAGEN" target="C_DEN" weight="1" />
+      <edge id="151" source="C_HAGEN" target="C_NERI" weight="1" />
+      <edge id="152" source="C_HAGEN" target="C_PAULIE GATTO" weight="1" />
+      <edge id="153" source="C_HAGEN" target="C_BONASERA" weight="1" />
+      <edge id="154" source="C_HAGEN" target="C_KAY" weight="2" />
+      <edge id="155" source="C_HAGEN" target="C_JOHNNY" weight="1" />
+      <edge id="156" source="C_HAGEN" target="C_CORLEONE" weight="1" />
+      <edge id="157" source="C_HAGEN" target="C_CARLO" weight="1" />
+      <edge id="158" source="C_HAGEN" target="C_LUCA BRASI" weight="3" />
+      <edge id="159" source="C_HAGEN" target="C_DON" weight="21" />
+      <edge id="160" source="C_HAGEN" target="C_WOLTZ" weight="1" />
+      <edge id="161" source="C_HAGEN" target="C_SONNY" weight="6" />
+      <edge id="162" source="C_DRIVER" target="C_MICHAEL" weight="1" />
+      <edge id="163" source="C_DRIVER" target="C_LUCY MANCINI" weight="1" />
+      <edge id="164" source="C_DRIVER" target="C_NERI" weight="1" />
+      <edge id="165" source="C_DRIVER" target="C_SONNY" weight="1" />
+      <edge id="166" source="C_NURSE" target="C_MICHAEL" weight="2" />
+      <edge id="167" source="C_NURSE" target="C_DON" weight="2" />
+      <edge id="168" source="C_LUCA" target="C_HAGEN" weight="1" />
+      <edge id="169" source="C_LUCA" target="C_DON" weight="1" />
+      <edge id="170" source="C_LUCA" target="C_DON CORLEONE" weight="1" />
+      <edge id="171" source="C_LUCA" target="C_LUCA NODS" weight="1" />
+      <edge id="172" source="C_LUCA" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="173" source="C_SONNY" target="C_PETER CLEMENZA" weight="1" />
+      <edge id="174" source="C_SONNY" target="C_DON CORLEONE" weight="3" />
+      <edge id="175" source="C_SONNY" target="C_FREDO" weight="1" />
+      <edge id="176" source="C_SONNY" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="177" source="C_SONNY" target="C_BARZINI" weight="1" />
+      <edge id="178" source="C_SONNY" target="C_MICHAEL" weight="7" />
+      <edge id="179" source="C_SONNY" target="C_MANCINI" weight="1" />
+      <edge id="180" source="C_SONNY" target="C_LUCY MANCINI" weight="2" />
+      <edge id="181" source="C_SONNY" target="C_SANDRA" weight="2" />
+      <edge id="182" source="C_SONNY" target="C_TOM HAGEN" weight="2" />
+      <edge id="183" source="C_SONNY" target="C_THERESA" weight="2" />
+      <edge id="184" source="C_SONNY" target="C_JOHNNY" weight="1" />
+      <edge id="185" source="C_SONNY" target="C_PAULIE GATTO" weight="1" />
+      <edge id="186" source="C_SONNY" target="C_HAGEN" weight="9" />
+      <edge id="187" source="C_SONNY" target="C_CARLO RIZZI" weight="1" />
+      <edge id="188" source="C_SONNY" target="C_LUCA BRASI" weight="2" />
+      <edge id="189" source="C_SONNY" target="C_DON" weight="15" />
+      <edge id="190" source="C_SONNY" target="C_PAULIE" weight="1" />
+      <edge id="191" source="C_CLEMENZA" target="C_GATTO" weight="2" />
+      <edge id="192" source="C_CLEMENZA" target="C_BARZINI" weight="1" />
+      <edge id="193" source="C_CLEMENZA" target="C_SOLLOZZO" weight="1" />
+      <edge id="194" source="C_CLEMENZA" target="C_ROCCO LAMPONE" weight="2" />
+      <edge id="195" source="C_CLEMENZA" target="C_CARLO" weight="1" />
+      <edge id="196" source="C_CLEMENZA" target="C_PAULIE" weight="7" />
+      <edge id="197" source="C_CLEMENZA" target="C_LAMPONE" weight="5" />
+      <edge id="198" source="C_CLEMENZA" target="C_SANDRA" weight="1" />
+      <edge id="199" source="C_CLEMENZA" target="C_THERESA" weight="1" />
+      <edge id="200" source="C_CLEMENZA" target="C_MICHAEL" weight="10" />
+      <edge id="201" source="C_CLEMENZA" target="C_NERI" weight="2" />
+      <edge id="202" source="C_CLEMENZA" target="C_PAULIE GATTO" weight="2" />
+      <edge id="203" source="C_CLEMENZA" target="C_DEN" weight="1" />
+      <edge id="204" source="C_CLEMENZA" target="C_THERESA HAGEN" weight="1" />
+      <edge id="205" source="C_CLEMENZA" target="C_DON" weight="7" />
+      <edge id="206" source="C_CLEMENZA" target="C_PETER CLEMENZA" weight="1" />
+      <edge id="207" source="C_CLEMENZA" target="C_DON CORLEONE" weight="2" />
+      <edge id="208" source="C_CLEMENZA" target="C_ROCCO" weight="1" />
+      <edge id="209" source="C_CLEMENZA" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="210" source="C_CLEMENZA" target="C_HAGEN" weight="4" />
+      <edge id="211" source="C_CLEMENZA" target="C_LUCA BRASI" weight="1" />
+      <edge id="212" source="C_CLEMENZA" target="C_SONNY" weight="4" />
+      <edge id="213" source="C_CONNIE" target="C_MICHAEL" weight="2" />
+      <edge id="214" source="C_CONNIE" target="C_LAMPONE" weight="1" />
+      <edge id="215" source="C_CONNIE" target="C_HAGEN" weight="1" />
+      <edge id="216" source="C_CONNIE" target="C_KAY" weight="1" />
+      <edge id="217" source="C_CONNIE" target="C_CORLEONE" weight="1" />
+      <edge id="218" source="C_CONNIE" target="C_DON" weight="3" />
+      <edge id="219" source="C_CONNIE" target="C_NERI" weight="1" />
+      <edge id="220" source="C_CONNIE" target="C_SONNY" weight="3" />
+      <edge id="221" source="C_OFFICE MANAGER" target="C_DON" weight="1" />
+      <edge id="222" source="C_SOLLOZZO" target="C_DON CORLEONE" weight="1" />
+      <edge id="223" source="C_SOLLOZZO" target="C_PAULIE GATTO" weight="1" />
+      <edge id="224" source="C_SOLLOZZO" target="C_BRUNO TATTAGLIA" weight="2" />
+      <edge id="225" source="C_SOLLOZZO" target="C_MICHAEL" weight="5" />
+      <edge id="226" source="C_SOLLOZZO" target="C_DON" weight="2" />
+      <edge id="227" source="C_SOLLOZZO" target="C_SANDRA" weight="1" />
+      <edge id="228" source="C_SOLLOZZO" target="C_GRETEL" weight="1" />
+      <edge id="229" source="C_SOLLOZZO" target="C_LUNA AZURA" weight="1" />
+      <edge id="230" source="C_SOLLOZZO" target="C_HAGEN" weight="5" />
+      <edge id="231" source="C_SOLLOZZO" target="C_MIKE" weight="1" />
+      <edge id="232" source="C_SOLLOZZO" target="C_LUCA BRASI" weight="1" />
+      <edge id="233" source="C_SOLLOZZO" target="C_MCCLUSKEY" weight="1" />
+      <edge id="234" source="C_SOLLOZZO" target="C_LUCA NODS" weight="1" />
+      <edge id="235" source="C_SOLLOZZO" target="C_SONNY" weight="2" />
+      <edge id="236" source="C_MAN" target="C_MICHAEL" weight="2" />
+      <edge id="237" source="C_MAN" target="C_LUCA NODS" weight="1" />
+      <edge id="238" source="C_MAN" target="C_BRUNO TATTAGLIA" weight="1" />
+      <edge id="239" source="C_MAMA" target="C_HAGEN" weight="1" />
+      <edge id="240" source="C_MAMA" target="C_KAY" weight="3" />
+      <edge id="241" source="C_MAMA" target="C_DON" weight="2" />
+      <edge id="242" source="C_MAMA" target="C_SONNY" weight="1" />
+      <edge id="243" source="C_COP" target="C_BAKER" weight="1" />
+      <edge id="244" source="C_COP" target="C_MICHAEL" weight="1" />
+      <edge id="245" source="C_COP" target="C_ENZO" weight="1" />
+      <edge id="246" source="C_COP" target="C_MCCLUSKEY" weight="1" />
+      <edge id="247" source="C_COP" target="C_DON" weight="1" />
+      <edge id="248" source="C_COP" target="C_HAGEN" weight="1" />
+      <edge id="249" source="C_LAMPONE" target="C_GATTO" weight="1" />
+      <edge id="250" source="C_LAMPONE" target="C_ROCCO" weight="1" />
+      <edge id="251" source="C_LAMPONE" target="C_SOLLOZZO" weight="1" />
+      <edge id="252" source="C_LAMPONE" target="C_ROCCO LAMPONE" weight="1" />
+      <edge id="253" source="C_LAMPONE" target="C_PAULIE" weight="2" />
+      <edge id="254" source="C_FABRIZZIO" target="C_MICHAEL" weight="4" />
+      <edge id="255" source="C_FABRIZZIO" target="C_VITELLI" weight="1" />
+      <edge id="256" source="C_FABRIZZIO" target="C_CALO" weight="2" />
+      <edge id="257" source="C_CALO" target="C_MICHAEL" weight="4" />
+      <edge id="258" source="C_CALO" target="C_VITELLI" weight="1" />
+      <edge id="259" source="C_CALO" target="C_CORLEONE" weight="1" />
+      <edge id="260" source="C_TESSIO" target="C_DON CORLEONE" weight="1" />
+      <edge id="261" source="C_TESSIO" target="C_HAGEN" weight="5" />
+      <edge id="262" source="C_TESSIO" target="C_DON" weight="4" />
+      <edge id="263" source="C_TESSIO" target="C_DEN" weight="1" />
+      <edge id="264" source="C_TESSIO" target="C_MICHAEL" weight="4" />
+      <edge id="265" source="C_TESSIO" target="C_LAMPONE" weight="1" />
+      <edge id="266" source="C_TESSIO" target="C_CARLO" weight="1" />
+      <edge id="267" source="C_TESSIO" target="C_LUCA BRASI" weight="1" />
+      <edge id="268" source="C_TESSIO" target="C_NERI" weight="2" />
+      <edge id="269" source="C_TESSIO" target="C_SONNY" weight="1" />
+      <edge id="270" source="C_VOICE" target="C_MICHAEL" weight="1" />
+      <edge id="271" source="C_VOICE" target="C_SANDRA" weight="1" />
+      <edge id="272" source="C_VOICE" target="C_DON" weight="1" />
+      <edge id="273" source="C_VOICE" target="C_SONNY" weight="1" />
+      <edge id="274" source="C_NERI" target="C_MICHAEL" weight="1" />
+      <edge id="275" source="C_DON CORLEONE" target="C_FREDO" weight="1" />
+      <edge id="276" source="C_DON CORLEONE" target="C_OTTILIO CUNEO" weight="1" />
+      <edge id="277" source="C_DON CORLEONE" target="C_MICHAEL" weight="7" />
+      <edge id="278" source="C_DON CORLEONE" target="C_DOMENICK PANZA" weight="1" />
+      <edge id="279" source="C_DON CORLEONE" target="C_JOHNNY" weight="4" />
+      <edge id="280" source="C_DON CORLEONE" target="C_BONASERA" weight="2" />
+      <edge id="281" source="C_DON CORLEONE" target="C_AMERIGO BONASERA" weight="1" />
+      <edge id="282" source="C_DON CORLEONE" target="C_CARLO" weight="1" />
+      <edge id="283" source="C_DON CORLEONE" target="C_DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="284" source="C_DON CORLEONE" target="C_EMILIO BARZINI" weight="1" />
+      <edge id="285" source="C_DON CORLEONE" target="C_SONNY CORLEONE" weight="2" />
+      <edge id="286" source="C_DON CORLEONE" target="C_SANDRA" weight="1" />
+      <edge id="287" source="C_DON CORLEONE" target="C_TOM HAGEN" weight="4" />
+      <edge id="288" source="C_DON CORLEONE" target="C_THERESA" weight="1" />
+      <edge id="289" source="C_DON CORLEONE" target="C_DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="290" source="C_DON CORLEONE" target="C_LUCY MANCINI" weight="1" />
+      <edge id="291" source="C_DON CORLEONE" target="C_DEN" weight="1" />
+      <edge id="292" source="C_DON CORLEONE" target="C_GENCO" weight="1" />
+      <edge id="293" source="C_DON CORLEONE" target="C_NERI" weight="1" />
+      <edge id="294" source="C_DON CORLEONE" target="C_JOHNNY FONTANE" weight="1" />
+      <edge id="295" source="C_DON CORLEONE" target="C_CARLO RIZZI" weight="1" />
+      <edge id="296" source="C_DON CORLEONE" target="C_JOSEPH ZALUCHI" weight="1" />
+      <edge id="297" source="C_DON CORLEONE" target="C_ANTHONY MOLINARI" weight="1" />
+      <edge id="298" source="C_DON CORLEONE" target="C_FRANK FALCONE" weight="1" />
+      <edge id="299" source="C_DON CORLEONE" target="C_HAGEN" weight="12" />
+      <edge id="300" source="C_DON CORLEONE" target="C_DON" weight="21" />
+      <edge id="301" source="C_DON CORLEONE" target="C_LUCA BRASI" weight="1" />
+      <edge id="302" source="C_DON CORLEONE" target="C_SONNY" weight="6" />
+      <edge id="303" source="C_DON CORLEONE" target="C_ANTHONY STRACCI" weight="1" />
+      <edge id="304" source="C_A DETECTIVE" target="C_BAKER" weight="1" />
+      <edge id="305" source="C_A DETECTIVE" target="C_MICHAEL" weight="1" />
+      <edge id="306" source="C_A DETECTIVE" target="C_ENZO" weight="1" />
+      <edge id="307" source="C_A DETECTIVE" target="C_MCCLUSKEY" weight="1" />
+      <edge id="308" source="C_A DETECTIVE" target="C_DON" weight="1" />
+      <edge id="309" source="C_A DETECTIVE" target="C_HAGEN" weight="1" />
+      <edge id="310" source="C_CONNIE'S VOICE" target="C_SONNY" weight="1" />
+      <edge id="311" source="C_MRS. BONASERA" target="C_BONASERA" weight="1" />
+      <edge id="312" source="C_MRS. BONASERA" target="C_AMERIGO BONASERA" weight="1" />
+      <edge id="313" source="C_DON ZALUCHI" target="C_DON CORLEONE" weight="1" />
+      <edge id="314" source="C_DON ZALUCHI" target="C_OTTILIO CUNEO" weight="1" />
+      <edge id="315" source="C_DON ZALUCHI" target="C_ANTHONY MOLINARI" weight="1" />
+      <edge id="316" source="C_DON ZALUCHI" target="C_FRANK FALCONE" weight="1" />
+      <edge id="317" source="C_DON ZALUCHI" target="C_JOSEPH ZALUCHI" weight="1" />
+      <edge id="318" source="C_DON ZALUCHI" target="C_DOMENICK PANZA" weight="1" />
+      <edge id="319" source="C_DON ZALUCHI" target="C_EMILIO BARZINI" weight="1" />
+      <edge id="320" source="C_DON ZALUCHI" target="C_DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="321" source="C_DON ZALUCHI" target="C_HAGEN" weight="1" />
+      <edge id="322" source="C_DON ZALUCHI" target="C_TOM HAGEN" weight="1" />
+      <edge id="323" source="C_DON ZALUCHI" target="C_DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="324" source="C_DON ZALUCHI" target="C_DON" weight="1" />
+      <edge id="325" source="C_DON ZALUCHI" target="C_ANTHONY STRACCI" weight="1" />
+      <edge id="326" source="C_NAZORINE" target="C_DON CORLEONE" weight="1" />
+      <edge id="327" source="C_NAZORINE" target="C_DON" weight="1" />
+      <edge id="328" source="C_JOHNNY" target="C_JOHNNY FONTANE" weight="1" />
+      <edge id="329" source="C_JOHNNY" target="C_DON CORLEONE" weight="1" />
+      <edge id="330" source="C_JOHNNY" target="C_HAGEN" weight="2" />
+      <edge id="331" source="C_JOHNNY" target="C_NERI" weight="1" />
+      <edge id="332" source="C_JOHNNY" target="C_MICHAEL" weight="1" />
+      <edge id="333" source="C_JOHNNY" target="C_GREENE" weight="1" />
+      <edge id="334" source="C_JOHNNY" target="C_DON" weight="1" />
+      <edge id="335" source="C_JOHNNY" target="C_SONNY" weight="2" />
+      <edge id="336" source="C_BONASERA" target="C_DON CORLEONE" weight="3" />
+      <edge id="337" source="C_BONASERA" target="C_HAGEN" weight="2" />
+      <edge id="338" source="C_BONASERA" target="C_SONNY CORLEONE" weight="2" />
+      <edge id="339" source="C_BONASERA" target="C_TOM HAGEN" weight="1" />
+      <edge id="340" source="C_BONASERA" target="C_AMERIGO BONASERA" weight="2" />
+      <edge id="341" source="C_BONASERA" target="C_DON" weight="2" />
+      <edge id="342" source="C_BONASERA" target="C_SONNY" weight="1" />
+      <edge id="343" source="C_CARLO" target="C_DON CORLEONE" weight="1" />
+      <edge id="344" source="C_CARLO" target="C_PAULIE GATTO" weight="1" />
+      <edge id="345" source="C_CARLO" target="C_MICHAEL" weight="3" />
+      <edge id="346" source="C_CARLO" target="C_LAMPONE" weight="2" />
+      <edge id="347" source="C_CARLO" target="C_LUCY MANCINI" weight="1" />
+      <edge id="348" source="C_CARLO" target="C_SANDRA" weight="1" />
+      <edge id="349" source="C_CARLO" target="C_CARLO RIZZI" weight="1" />
+      <edge id="350" source="C_CARLO" target="C_DEN" weight="1" />
+      <edge id="351" source="C_CARLO" target="C_HAGEN" weight="2" />
+      <edge id="352" source="C_CARLO" target="C_DON" weight="2" />
+      <edge id="353" source="C_CARLO" target="C_NERI" weight="1" />
+      <edge id="354" source="C_CARLO" target="C_SONNY" weight="2" />
+      <edge id="355" source="C_SANDRA" target="C_DON CORLEONE" weight="1" />
+      <edge id="356" source="C_SANDRA" target="C_FREDO" weight="1" />
+      <edge id="357" source="C_SANDRA" target="C_HAGEN" weight="1" />
+      <edge id="358" source="C_SANDRA" target="C_LUCY MANCINI" weight="1" />
+      <edge id="359" source="C_SANDRA" target="C_TOM HAGEN" weight="1" />
+      <edge id="360" source="C_SANDRA" target="C_THERESA" weight="1" />
+      <edge id="361" source="C_SANDRA" target="C_CARLO RIZZI" weight="1" />
+      <edge id="362" source="C_SANDRA" target="C_DON" weight="1" />
+      <edge id="363" source="C_SANDRA" target="C_SONNY" weight="2" />
+      <edge id="364" source="C_BUTTON MAN" target="C_HAGEN" weight="1" />
+      <edge id="365" source="C_VITELLI" target="C_MICHAEL" weight="1" />
+      <edge id="366" source="C_VITELLI" target="C_CALO" weight="1" />
+      <edge id="367" source="C_WOMAN" target="C_LUCY MANCINI" weight="1" />
+      <edge id="368" source="C_WOMAN" target="C_CARLO RIZZI" weight="1" />
+      <edge id="369" source="C_WOMAN" target="C_SANDRA" weight="1" />
+      <edge id="370" source="C_WOMAN" target="C_PAULIE GATTO" weight="1" />
+      <edge id="371" source="C_WOMAN" target="C_SONNY" weight="1" />
+      <edge id="372" source="C_WOLTZ" target="C_HAGEN" weight="2" />
+    </edges>
+  </graph>
+</gexf>

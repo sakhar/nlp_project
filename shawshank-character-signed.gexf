@@ -1,0 +1,2427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="true_label" type="string" />
+      <attribute id="1" title="predicted_correctly" type="string" />
+      <attribute id="2" title="predicted_label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="ERNIE" label="ERNIE" />
+      <node id="TOMNY" label="TOMNY" />
+      <node id="WOMAN REPORTER" label="WOMAN REPORTER" />
+      <node id="BOGS" label="BOGS" />
+      <node id="LEONARD" label="LEONARD" />
+      <node id="RACQUEL" label="RACQUEL" />
+      <node id="BOB" label="BOB" />
+      <node id="VOICE" label="VOICE" />
+      <node id="TELLER" label="TELLER" />
+      <node id="WOMAN" label="WOMAN" />
+      <node id="BLATCH" label="BLATCH" />
+      <node id="MANAGER" label="MANAGER" />
+      <node id="PETE VERNESS" label="PETE VERNESS" />
+      <node id="RORY" label="RORY" />
+      <node id="DEKINS" label="DEKINS" />
+      <node id="RACQUEL WELCH" label="RACQUEL WELCH" />
+      <node id="POPPA" label="POPPA" />
+      <node id="JOEY" label="JOEY" />
+      <node id="VARIOUS VOICES" label="VARIOUS VOICES" />
+      <node id="RORY TREMONT" label="RORY TREMONT" />
+      <node id="FEMALE TELLER" label="FEMALE TELLER" />
+      <node id="GEORGE HARRISON" label="GEORGE HARRISON" />
+      <node id="WARDEN NORTON" label="WARDEN NORTON" />
+      <node id="MAN" label="MAN" />
+      <node id="MARILYN MONROE" label="MARILYN MONROE" />
+      <node id="BING CROSBYS" label="BING CROSBYS" />
+      <node id="TOMMY WILLIAMS" label="TOMMY WILLIAMS" />
+      <node id="DUFRESNE" label="DUFRESNE" />
+      <node id="DOCTOR" label="DOCTOR" />
+      <node id="NAT KING COLES" label="NAT KING COLES" />
+      <node id="RED" label="RED" />
+      <node id="HEYWOOD" label="HEYWOOD" />
+      <node id="JAKE" label="JAKE" />
+      <node id="MERT ENTWHISTLE" label="MERT ENTWHISTLE" />
+      <node id="JIGGER" label="JIGGER" />
+      <node id="JUDGE" label="JUDGE" />
+      <node id="MAISIE" label="MAISIE" />
+      <node id="D.A." label="D.A." />
+      <node id="MOZART" label="MOZART" />
+      <node id="WILEY" label="WILEY" />
+      <node id="MAIL CALLER" label="MAIL CALLER" />
+      <node id="BYRON HADLEY" label="BYRON HADLEY" />
+      <node id="RITA" label="RITA" />
+      <node id="SAMUEL NORTON" label="SAMUEL NORTON" />
+      <node id="HAIG" label="HAIG" />
+      <node id="NED" label="NED" />
+      <node id="MERT" label="MERT" />
+      <node id="NED GRIMES" label="NED GRIMES" />
+      <node id="FAT-ASS" label="FAT-ASS" />
+      <node id="CON" label="CON" />
+      <node id="THE BATTER" label="THE BATTER" />
+      <node id="BREWSTER" label="BREWSTER" />
+      <node id="HADLEY" label="HADLEY" />
+      <node id="FLOYD" label="FLOYD" />
+      <node id="ANDY" label="ANDY" />
+      <node id="RAY MILLAND" label="RAY MILLAND" />
+      <node id="MAN #l" label="MAN #l" />
+      <node id="TROUT" label="TROUT" />
+      <node id="HANK WILLIAMS" label="HANK WILLIAMS" />
+      <node id="DUTY GUARD" label="DUTY GUARD" />
+      <node id="SNOOZE" label="SNOOZE" />
+      <node id="BETH" label="BETH" />
+      <node id="NORTON" label="NORTON" />
+      <node id="VOICES" label="VOICES" />
+      <node id="JERRY LEE LEWIS" label="JERRY LEE LEWIS" />
+      <node id="STEVENS" label="STEVENS" />
+      <node id="MAN #3" label="MAN #3" />
+      <node id="MAN #1" label="MAN #1" />
+      <node id="P.O." label="P.O." />
+      <node id="YOUNGBLOOD" label="YOUNGBLOOD" />
+      <node id="ELDERLY GUARD" label="ELDERLY GUARD" />
+      <node id="TYRELL" label="TYRELL" />
+      <node id="MAN #2" label="MAN #2" />
+      <node id="ANDY DUFRESNE" label="ANDY DUFRESNE" />
+      <node id="DOLLYING NORTON" label="DOLLYING NORTON" />
+      <node id="PETE" label="PETE" />
+      <node id="MAN g2" label="MAN g2" />
+      <node id="ROOSTER" label="ROOSTER" />
+      <node id="RITA HAYWORTH" label="RITA HAYWORTH" />
+      <node id="TIM YOUNGBLOOD" label="TIM YOUNGBLOOD" />
+      <node id="BROOK" label="BROOK" />
+      <node id="BROOKS" label="BROOKS" />
+      <node id="-- BROOKS" label="-- BROOKS" />
+      <node id="TOMMY" label="TOMMY" />
+      <node id="PROJECTIONIST" label="PROJECTIONIST" />
+      <node id="SKEET" label="SKEET" />
+      <node id="GUARD" label="GUARD" />
+      <node id="TOWER GUARD" label="TOWER GUARD" />
+      <node id="-- HEYWOOD" label="-- HEYWOOD" />
+      <node id="BROOKS HATLEN" label="BROOKS HATLEN" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ERNIE" target="JIGGER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="ERNIE" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="ERNIE" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="ERNIE" target="RED" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="ERNIE" target="SKEET" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="ERNIE" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="ERNIE" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="ERNIE" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="ERNIE" target="FLOYD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="ERNIE" target="ANDY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="ERNIE" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="ERNIE" target="WARDEN NORTON" weight="1" />
+      <edge id="12" source="ERNIE" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="ERNIE" target="CON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="ERNIE" target="BYRON HADLEY" weight="1" />
+      <edge id="15" source="TOMNY" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="TOMNY" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="TOMNY" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="TOMNY" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="TOMNY" target="TOMMY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="WOMAN REPORTER" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="BOGS" target="PETE" weight="3" />
+      <edge id="22" source="BOGS" target="ROOSTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="BOGS" target="ANDY" weight="4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="BOGS" target="RED" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="BOGS" target="RAY MILLAND" weight="1" />
+      <edge id="26" source="BOGS" target="PROJECTIONIST" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="BOGS" target="PETE VERNESS" weight="1" />
+      <edge id="28" source="BOB" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="BOB" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="VOICE" target="JIGGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="VOICE" target="ERNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="VOICE" target="TOWER GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="VOICE" target="BYRON HADLEY" weight="1" />
+      <edge id="34" source="VOICE" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="VOICE" target="HADLEY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="VOICE" target="VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="VOICE" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="VOICE" target="FLOYD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="VOICE" target="ANDY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="VOICE" target="RED" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="VOICE" target="HEYWOOD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="VOICE" target="RACQUEL" weight="1" />
+      <edge id="43" source="VOICE" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="VOICE" target="SKEET" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="VOICE" target="FAT-ASS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="TELLER" target="MANAGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="TELLER" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="TELLER" target="RED" weight="1" />
+      <edge id="49" source="TELLER" target="STEVENS" weight="1" />
+      <edge id="50" source="WOMAN" target="BREWSTER" weight="1" />
+      <edge id="51" source="WOMAN" target="MANAGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="WOMAN" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="WOMAN" target="BROOKS" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="BLATCH" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="BLATCH" target="TOMMY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="MANAGER" target="GEORGE HARRISON" weight="1" />
+      <edge id="57" source="MANAGER" target="WOMAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="MANAGER" target="STEVENS" weight="1" />
+      <edge id="59" source="MANAGER" target="BROOKS" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="MANAGER" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="MANAGER" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="MANAGER" target="TELLER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="RORY" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="RORY" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="RORY" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="DEKINS" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="DEKINS" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="DEKINS" target="BROOKS" weight="1" />
+      <edge id="69" source="VARIOUS VOICES" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="VARIOUS VOICES" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="FEMALE TELLER" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="FEMALE TELLER" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="FEMALE TELLER" target="RED" weight="1" />
+      <edge id="74" source="MAN" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="DOCTOR" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="RED" target="ERNIE" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="RED" target="TOMNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="RED" target="P.O." weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="RED" target="RACQUEL" weight="1" />
+      <edge id="80" source="RED" target="BOB" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="RED" target="VOICE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="RED" target="TELLER" weight="1" />
+      <edge id="83" source="RED" target="GUARD" weight="4">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="RED" target="RORY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="RED" target="NORTON" weight="17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="RED" target="RACQUEL WELCH" weight="1" />
+      <edge id="87" source="RED" target="POPPA" weight="1" />
+      <edge id="88" source="RED" target="TOMMY" weight="10">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="RED" target="VARIOUS VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="RED" target="RORY TREMONT" weight="1" />
+      <edge id="91" source="RED" target="PETE VERNESS" weight="1" />
+      <edge id="92" source="RED" target="FEMALE TELLER" weight="1" />
+      <edge id="93" source="RED" target="GEORGE HARRISON" weight="1" />
+      <edge id="94" source="RED" target="MAN #2" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="RED" target="WARDEN NORTON" weight="2" />
+      <edge id="96" source="RED" target="BYRON HADLEY" weight="2" />
+      <edge id="97" source="RED" target="MARILYN MONROE" weight="1" />
+      <edge id="98" source="RED" target="TOMMY WILLIAMS" weight="1" />
+      <edge id="99" source="RED" target="DUFRESNE" weight="1" />
+      <edge id="100" source="RED" target="TOWER GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="RED" target="LEONARD" weight="3" />
+      <edge id="102" source="RED" target="MANAGER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="RED" target="HEYWOOD" weight="21">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="RED" target="JAKE" weight="1" />
+      <edge id="105" source="RED" target="MERT ENTWHISTLE" weight="1" />
+      <edge id="106" source="RED" target="JIGGER" weight="6">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="RED" target="JUDGE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="RED" target="MAISIE" weight="1" />
+      <edge id="109" source="RED" target="D.A." weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="RED" target="MAIL CALLER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="RED" target="JOEY" weight="1" />
+      <edge id="112" source="RED" target="RITA" weight="1" />
+      <edge id="113" source="RED" target="BOGS" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="RED" target="HAIG" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="RED" target="NED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="RED" target="MERT" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="RED" target="NED GRIMES" weight="1" />
+      <edge id="118" source="RED" target="CON" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="RED" target="THE BATTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="RED" target="HADLEY" weight="10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="RED" target="FLOYD" weight="13">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="RED" target="ANDY" weight="64">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="RED" target="RAY MILLAND" weight="2" />
+      <edge id="124" source="RED" target="MAN #l" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="RED" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="RED" target="HANK WILLIAMS" weight="1" />
+      <edge id="127" source="RED" target="RITA HAYWORTH" weight="1" />
+      <edge id="128" source="RED" target="SNOOZE" weight="5">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="RED" target="BETH" weight="1" />
+      <edge id="130" source="RED" target="JERRY LEE LEWIS" weight="1" />
+      <edge id="131" source="RED" target="STEVENS" weight="1" />
+      <edge id="132" source="RED" target="MAN #3" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="RED" target="MAN #1" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="RED" target="YOUNGBLOOD" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="RED" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="RED" target="PETE" weight="3" />
+      <edge id="137" source="RED" target="MAN g2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="RED" target="ROOSTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="RED" target="TIM YOUNGBLOOD" weight="1" />
+      <edge id="140" source="RED" target="BROOK" weight="1" />
+      <edge id="141" source="RED" target="BROOKS" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="RED" target="PROJECTIONIST" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="RED" target="SKEET" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="RED" target="BROOKS HATLEN" weight="3" />
+      <edge id="145" source="HEYWOOD" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="HEYWOOD" target="ERNIE" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="HEYWOOD" target="MERT" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="HEYWOOD" target="WOMAN REPORTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="HEYWOOD" target="VOICE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="HEYWOOD" target="FAT-ASS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="HEYWOOD" target="TOMNY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="HEYWOOD" target="TOWER GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="HEYWOOD" target="HADLEY" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="HEYWOOD" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="HEYWOOD" target="FLOYD" weight="13">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="HEYWOOD" target="ANDY" weight="14">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="HEYWOOD" target="RED" weight="17">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="HEYWOOD" target="MAN #l" weight="1" />
+      <edge id="159" source="HEYWOOD" target="NORTON" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="HEYWOOD" target="-- HEYWOOD" weight="1" />
+      <edge id="161" source="HEYWOOD" target="JAKE" weight="1" />
+      <edge id="162" source="HEYWOOD" target="JIGGER" weight="6">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="HEYWOOD" target="BROOK" weight="1" />
+      <edge id="164" source="HEYWOOD" target="BROOKS" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="HEYWOOD" target="TOMMY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="HEYWOOD" target="SNOOZE" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="HEYWOOD" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="HEYWOOD" target="SKEET" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="HEYWOOD" target="MAN #2" weight="1" />
+      <edge id="170" source="HEYWOOD" target="MAIL CALLER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="HEYWOOD" target="YOUNGBLOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="HEYWOOD" target="BROOKS HATLEN" weight="1" />
+      <edge id="173" source="HEYWOOD" target="BYRON HADLEY" weight="2" />
+      <edge id="174" source="JIGGER" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="JIGGER" target="ERNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="JIGGER" target="BROOKS" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="JIGGER" target="SNOOZE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="JIGGER" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="JIGGER" target="RED" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="JIGGER" target="SKEET" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="JIGGER" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="JIGGER" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="JIGGER" target="FLOYD" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="JIGGER" target="ANDY" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="JIGGER" target="HEYWOOD" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="JIGGER" target="BROOKS HATLEN" weight="1" />
+      <edge id="187" source="JIGGER" target="BYRON HADLEY" weight="1" />
+      <edge id="188" source="JUDGE" target="MAN #3" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="JUDGE" target="MAN #2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="JUDGE" target="MAN #1" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="JUDGE" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="JUDGE" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="D.A." target="DUTY GUARD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="D.A." target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="D.A." target="ANDY DUFRESNE" weight="1" />
+      <edge id="196" source="D.A." target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="D.A." target="NORTON" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="D.A." target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="WILEY" target="BING CROSBYS" weight="1" />
+      <edge id="200" source="WILEY" target="MOZART" weight="1" />
+      <edge id="201" source="WILEY" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="WILEY" target="NAT KING COLES" weight="1" />
+      <edge id="203" source="WILEY" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="WILEY" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="MAIL CALLER" target="FLOYD" weight="1" />
+      <edge id="206" source="MAIL CALLER" target="RED" weight="1" />
+      <edge id="207" source="MAIL CALLER" target="HEYWOOD" weight="1" />
+      <edge id="208" source="MAIL CALLER" target="TOMMY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="HAIG" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="HAIG" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="HAIG" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="HAIG" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="HAIG" target="RACQUEL" weight="1" />
+      <edge id="214" source="HAIG" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="NED" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="NED" target="NED GRIMES" weight="1" />
+      <edge id="217" source="NED" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="MERT" target="MERT ENTWHISTLE" weight="1" />
+      <edge id="219" source="MERT" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="MERT" target="BYRON HADLEY" weight="1" />
+      <edge id="221" source="MERT" target="HADLEY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="MERT" target="TOMMY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="MERT" target="YOUNGBLOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="MERT" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="MERT" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="MERT" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="MERT" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="MERT" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="MERT" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="MERT" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="MERT" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="FAT-ASS" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="FAT-ASS" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="FAT-ASS" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="FAT-ASS" target="VOICES" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="CON" target="SAMUEL NORTON" weight="1" />
+      <edge id="237" source="CON" target="ERNIE" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="CON" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="CON" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="CON" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="CON" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="CON" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="CON" target="WARDEN NORTON" weight="1" />
+      <edge id="244" source="CON" target="NORTON" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="THE BATTER" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="THE BATTER" target="BROOKS" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="THE BATTER" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="HADLEY" target="SAMUEL NORTON" weight="1" />
+      <edge id="249" source="HADLEY" target="HAIG" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="HADLEY" target="ERNIE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="HADLEY" target="BING CROSBYS" weight="1" />
+      <edge id="252" source="HADLEY" target="MERT" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="HADLEY" target="VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="HADLEY" target="RACQUEL" weight="1" />
+      <edge id="255" source="HADLEY" target="VOICE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="HADLEY" target="FAT-ASS" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="HADLEY" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="HADLEY" target="GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="HADLEY" target="NAT KING COLES" weight="1" />
+      <edge id="260" source="HADLEY" target="FLOYD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="HADLEY" target="ANDY" weight="8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="HADLEY" target="RED" weight="8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="HADLEY" target="RORY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="HADLEY" target="DEKINS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="HADLEY" target="CON" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="HADLEY" target="JAKE" weight="1" />
+      <edge id="267" source="HADLEY" target="HEYWOOD" weight="5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="HADLEY" target="JIGGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="HADLEY" target="BROOK" weight="1" />
+      <edge id="270" source="HADLEY" target="BROOKS" weight="1" />
+      <edge id="271" source="HADLEY" target="SNOOZE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="HADLEY" target="NORTON" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="HADLEY" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="HADLEY" target="SKEET" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="HADLEY" target="MOZART" weight="1" />
+      <edge id="276" source="HADLEY" target="WILEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="HADLEY" target="YOUNGBLOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="HADLEY" target="WARDEN NORTON" weight="1" />
+      <edge id="279" source="HADLEY" target="BYRON HADLEY" weight="2" />
+      <edge id="280" source="FLOYD" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="FLOYD" target="ERNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="FLOYD" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="FLOYD" target="VOICE" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="FLOYD" target="RED" weight="11">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="FLOYD" target="TOWER GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="FLOYD" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="FLOYD" target="ANDY" weight="9">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="FLOYD" target="HEYWOOD" weight="11">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="FLOYD" target="MAN #l" weight="1" />
+      <edge id="290" source="FLOYD" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="FLOYD" target="JIGGER" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="FLOYD" target="BROOKS" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="FLOYD" target="TOMMY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="FLOYD" target="SNOOZE" weight="4">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="FLOYD" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="FLOYD" target="SKEET" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="FLOYD" target="MAN #2" weight="1" />
+      <edge id="298" source="FLOYD" target="MAIL CALLER" weight="1" />
+      <edge id="299" source="FLOYD" target="YOUNGBLOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="FLOYD" target="BROOKS HATLEN" weight="1" />
+      <edge id="301" source="FLOYD" target="BYRON HADLEY" weight="2" />
+      <edge id="302" source="ANDY" target="BOGS" weight="3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="ANDY" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="ANDY" target="ERNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="ANDY" target="BING CROSBYS" weight="1" />
+      <edge id="306" source="ANDY" target="MERT" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="ANDY" target="HADLEY" weight="6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="ANDY" target="CON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="ANDY" target="SNOOZE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="ANDY" target="TOMMY WILLIAMS" weight="1" />
+      <edge id="311" source="ANDY" target="ROOSTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="ANDY" target="DOLLYING NORTON" weight="1" />
+      <edge id="313" source="ANDY" target="RED" weight="30">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="ANDY" target="PETE" weight="3" />
+      <edge id="315" source="ANDY" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="ANDY" target="THE BATTER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="ANDY" target="FLOYD" weight="9">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="ANDY" target="MANAGER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="ANDY" target="FEMALE TELLER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="ANDY" target="NAT KING COLES" weight="1" />
+      <edge id="321" source="ANDY" target="DEKINS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="ANDY" target="TELLER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="ANDY" target="RAY MILLAND" weight="2" />
+      <edge id="324" source="ANDY" target="MAN #l" weight="1" />
+      <edge id="325" source="ANDY" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="ANDY" target="TOMNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="ANDY" target="MOZART" weight="1" />
+      <edge id="328" source="ANDY" target="JAKE" weight="1" />
+      <edge id="329" source="ANDY" target="HEYWOOD" weight="12">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="ANDY" target="JIGGER" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="ANDY" target="STEVENS" weight="1" />
+      <edge id="332" source="ANDY" target="BROOK" weight="1" />
+      <edge id="333" source="ANDY" target="BROOKS" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="334" source="ANDY" target="TOMMY" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="335" source="ANDY" target="MAISIE" weight="1" />
+      <edge id="336" source="ANDY" target="WILEY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="337" source="ANDY" target="NORTON" weight="9">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="ANDY" target="PETE VERNESS" weight="1" />
+      <edge id="339" source="ANDY" target="D.A." weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="ANDY" target="PROJECTIONIST" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="ANDY" target="SKEET" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="ANDY" target="GUARD" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="343" source="ANDY" target="MAN #2" weight="1" />
+      <edge id="344" source="ANDY" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="ANDY" target="YOUNGBLOOD" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="ANDY" target="ANDY DUFRESNE" weight="1" />
+      <edge id="347" source="ANDY" target="WARDEN NORTON" weight="1" />
+      <edge id="348" source="ANDY" target="BROOKS HATLEN" weight="2" />
+      <edge id="349" source="ANDY" target="BYRON HADLEY" weight="1" />
+      <edge id="350" source="MAN #l" target="MAN #2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="MAN #l" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="MAN #l" target="ANDY" weight="1" />
+      <edge id="353" source="MAN #l" target="HEYWOOD" weight="1" />
+      <edge id="354" source="MAN #l" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="355" source="TROUT" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="356" source="TROUT" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="357" source="TROUT" target="YOUNGBLOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="358" source="TROUT" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="TROUT" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="TROUT" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="361" source="TROUT" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="TROUT" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="363" source="TROUT" target="BYRON HADLEY" weight="1" />
+      <edge id="364" source="DUTY GUARD" target="NORTON" weight="1" />
+      <edge id="365" source="DUTY GUARD" target="D.A." weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="366" source="SNOOZE" target="JIGGER" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="367" source="SNOOZE" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="SNOOZE" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="369" source="SNOOZE" target="TOMMY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="370" source="SNOOZE" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="SNOOZE" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="372" source="SNOOZE" target="BROOKS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="373" source="SNOOZE" target="SKEET" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="SNOOZE" target="BYRON HADLEY" weight="2" />
+      <edge id="375" source="SNOOZE" target="FLOYD" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="SNOOZE" target="ANDY" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="377" source="SNOOZE" target="YOUNGBLOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="SNOOZE" target="HEYWOOD" weight="6">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="SNOOZE" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="380" source="SNOOZE" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="381" source="SNOOZE" target="TOMNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="SNOOZE" target="RED" weight="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="NORTON" target="SAMUEL NORTON" weight="1" />
+      <edge id="384" source="NORTON" target="HAIG" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="NORTON" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="NORTON" target="NED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="387" source="NORTON" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="388" source="NORTON" target="TOMMY WILLIAMS" weight="1" />
+      <edge id="389" source="NORTON" target="RACQUEL" weight="1" />
+      <edge id="390" source="NORTON" target="DOLLYING NORTON" weight="1" />
+      <edge id="391" source="NORTON" target="NED GRIMES" weight="1" />
+      <edge id="392" source="NORTON" target="RED" weight="9">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="393" source="NORTON" target="CON" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="394" source="NORTON" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="395" source="NORTON" target="TOWER GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="NORTON" target="HADLEY" weight="6">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="397" source="NORTON" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="NORTON" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="NORTON" target="ANDY" weight="9">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="NORTON" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="401" source="NORTON" target="RORY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="NORTON" target="MAISIE" weight="1" />
+      <edge id="403" source="NORTON" target="TOMMY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="NORTON" target="SKEET" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="405" source="NORTON" target="WARDEN NORTON" weight="2" />
+      <edge id="406" source="VOICES" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="407" source="VOICES" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="408" source="VOICES" target="FAT-ASS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="MAN #3" target="JUDGE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="410" source="MAN #3" target="MAN #2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="411" source="MAN #3" target="MAN #1" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="412" source="MAN #3" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="413" source="MAN #3" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="414" source="MAN #1" target="MAN g2" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="415" source="MAN #1" target="MAN #2" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="MAN #1" target="MAN #3" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="MAN #1" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="MAN #1" target="JUDGE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="MAN #1" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="420" source="P.O." target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="YOUNGBLOOD" target="JAKE" weight="1" />
+      <edge id="422" source="YOUNGBLOOD" target="BROOK" weight="1" />
+      <edge id="423" source="YOUNGBLOOD" target="MERT" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="424" source="YOUNGBLOOD" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="YOUNGBLOOD" target="GUARD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="YOUNGBLOOD" target="FLOYD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="YOUNGBLOOD" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="428" source="YOUNGBLOOD" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="YOUNGBLOOD" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="YOUNGBLOOD" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="431" source="YOUNGBLOOD" target="TROUT" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="432" source="YOUNGBLOOD" target="BYRON HADLEY" weight="1" />
+      <edge id="433" source="ELDERLY GUARD" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="434" source="TYRELL" target="JIGGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="435" source="TYRELL" target="BROOKS" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="436" source="TYRELL" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="437" source="TYRELL" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="438" source="TYRELL" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="439" source="TYRELL" target="BROOKS HATLEN" weight="1" />
+      <edge id="440" source="TYRELL" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="441" source="MAN #2" target="MAN g2" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="442" source="MAN #2" target="MAN #1" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="443" source="MAN #2" target="MAN #3" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="444" source="MAN #2" target="FLOYD" weight="1" />
+      <edge id="445" source="MAN #2" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="446" source="MAN #2" target="HEYWOOD" weight="1" />
+      <edge id="447" source="MAN #2" target="MAN #l" weight="1" />
+      <edge id="448" source="MAN #2" target="JUDGE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="449" source="MAN #2" target="RED" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="450" source="MAN g2" target="MAN #2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="451" source="MAN g2" target="MAN #1" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="452" source="MAN g2" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="453" source="ROOSTER" target="PETE" weight="1" />
+      <edge id="454" source="ROOSTER" target="PROJECTIONIST" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="455" source="ROOSTER" target="BOGS" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="456" source="ROOSTER" target="ANDY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="457" source="ROOSTER" target="RED" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="458" source="BROOKS" target="TYRELL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="459" source="BROOKS" target="JAKE" weight="1" />
+      <edge id="460" source="BROOKS" target="RED" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="461" source="BROOKS" target="WOMAN" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="462" source="BROOKS" target="DUFRESNE" weight="1" />
+      <edge id="463" source="BROOKS" target="BREWSTER" weight="2" />
+      <edge id="464" source="BROOKS" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="465" source="BROOKS" target="MANAGER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="466" source="BROOKS" target="FLOYD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="467" source="BROOKS" target="ANDY" weight="6">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="468" source="BROOKS" target="HEYWOOD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="469" source="BROOKS" target="DEKINS" weight="1" />
+      <edge id="470" source="BROOKS" target="JIGGER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="471" source="BROOKS" target="-- BROOKS" weight="4" />
+      <edge id="472" source="BROOKS" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="473" source="BROOKS" target="BROOKS HATLEN" weight="4" />
+      <edge id="474" source="TOMMY" target="BLATCH" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="475" source="TOMMY" target="TOMNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="476" source="TOMMY" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="477" source="TOMMY" target="MAIL CALLER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="478" source="TOMMY" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="479" source="TOMMY" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="480" source="TOMMY" target="ANDY" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="481" source="TOMMY" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="482" source="TOMMY" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="483" source="TOMMY" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="484" source="TOMMY" target="RED" weight="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="485" source="PROJECTIONIST" target="PETE" weight="2" />
+      <edge id="486" source="PROJECTIONIST" target="BOGS" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="487" source="PROJECTIONIST" target="ROOSTER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="488" source="PROJECTIONIST" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="489" source="PROJECTIONIST" target="RAY MILLAND" weight="1" />
+      <edge id="490" source="PROJECTIONIST" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="1" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="491" source="SKEET" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="492" source="SKEET" target="JIGGER" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="493" source="SKEET" target="TOWER GUARD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="494" source="SKEET" target="BYRON HADLEY" weight="1" />
+      <edge id="495" source="SKEET" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="496" source="SKEET" target="FLOYD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="497" source="SKEET" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="498" source="SKEET" target="HEYWOOD" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="499" source="SKEET" target="SNOOZE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="500" source="SKEET" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="501" source="SKEET" target="VOICE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="502" source="SKEET" target="RED" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="503" source="GUARD" target="JAKE" weight="1" />
+      <edge id="504" source="GUARD" target="HAIG" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="505" source="GUARD" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="506" source="GUARD" target="RITA HAYWORTH" weight="1" />
+      <edge id="507" source="GUARD" target="MERT" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="508" source="GUARD" target="HADLEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="509" source="GUARD" target="VARIOUS VOICES" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="510" source="GUARD" target="FLOYD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="511" source="GUARD" target="ANDY" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="512" source="GUARD" target="YOUNGBLOOD" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="513" source="GUARD" target="HEYWOOD" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="514" source="GUARD" target="WARDEN NORTON" weight="1" />
+      <edge id="515" source="GUARD" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="516" source="GUARD" target="BROOK" weight="1" />
+      <edge id="517" source="GUARD" target="RED" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="518" source="GUARD" target="CON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="519" source="TOWER GUARD" target="ERNIE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="520" source="TOWER GUARD" target="JIGGER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="521" source="TOWER GUARD" target="BYRON HADLEY" weight="1" />
+      <edge id="522" source="TOWER GUARD" target="HADLEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="523" source="TOWER GUARD" target="FLOYD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="524" source="TOWER GUARD" target="ANDY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="525" source="TOWER GUARD" target="HEYWOOD" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="526" source="TOWER GUARD" target="SNOOZE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="527" source="TOWER GUARD" target="NORTON" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="528" source="TOWER GUARD" target="VOICE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="529" source="TOWER GUARD" target="RED" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="530" source="TOWER GUARD" target="SKEET" weight="2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

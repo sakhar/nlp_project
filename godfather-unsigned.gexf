@@ -1,0 +1,1011 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="S_168" label="S_168" />
+      <node id="S_169" label="S_169" />
+      <node id="C_GATTO" label="C_GATTO" />
+      <node id="S_93" label="S_93" />
+      <node id="C_BARZINI" label="C_BARZINI" />
+      <node id="S_161" label="S_161" />
+      <node id="S_162" label="S_162" />
+      <node id="C_CALO" label="C_CALO" />
+      <node id="S_164" label="S_164" />
+      <node id="S_126" label="S_126" />
+      <node id="S_166" label="S_166" />
+      <node id="S_167" label="S_167" />
+      <node id="S_71" label="S_71" />
+      <node id="C_MICHAEL CORLEONE" label="C_MICHAEL CORLEONE" />
+      <node id="C_DON TOMMASSINO" label="C_DON TOMMASSINO" />
+      <node id="C_PAULIE" label="C_PAULIE" />
+      <node id="C_SONNY CORLEONE" label="C_SONNY CORLEONE" />
+      <node id="C_JACK WOLTZ" label="C_JACK WOLTZ" />
+      <node id="S_46" label="S_46" />
+      <node id="S_47" label="S_47" />
+      <node id="S_44" label="S_44" />
+      <node id="S_116" label="S_116" />
+      <node id="S_42" label="S_42" />
+      <node id="S_43" label="S_43" />
+      <node id="S_40" label="S_40" />
+      <node id="S_41" label="S_41" />
+      <node id="C_ENZO" label="C_ENZO" />
+      <node id="S_99" label="S_99" />
+      <node id="S_123" label="S_123" />
+      <node id="S_209" label="S_209" />
+      <node id="S_208" label="S_208" />
+      <node id="S_48" label="S_48" />
+      <node id="S_49" label="S_49" />
+      <node id="C_MICHAEL" label="C_MICHAEL" />
+      <node id="C_MCCLUSKEY" label="C_MCCLUSKEY" />
+      <node id="S_216" label="S_216" />
+      <node id="S_163" label="S_163" />
+      <node id="S_194" label="S_194" />
+      <node id="S_128" label="S_128" />
+      <node id="C_CORLEONE" label="C_CORLEONE" />
+      <node id="S_197" label="S_197" />
+      <node id="S_165" label="S_165" />
+      <node id="C_THE GODFATHER" label="C_THE GODFATHER" />
+      <node id="C_KAY" label="C_KAY" />
+      <node id="S_119" label="S_119" />
+      <node id="S_118" label="S_118" />
+      <node id="S_115" label="S_115" />
+      <node id="S_114" label="S_114" />
+      <node id="S_117" label="S_117" />
+      <node id="C_MAN" label="C_MAN" />
+      <node id="C_APPOLONIA" label="C_APPOLONIA" />
+      <node id="S_110" label="S_110" />
+      <node id="S_113" label="S_113" />
+      <node id="S_190" label="S_190" />
+      <node id="S_51" label="S_51" />
+      <node id="S_50" label="S_50" />
+      <node id="S_53" label="S_53" />
+      <node id="S_214" label="S_214" />
+      <node id="S_55" label="S_55" />
+      <node id="S_54" label="S_54" />
+      <node id="C_BRUNO TATTAGLIA" label="C_BRUNO TATTAGLIA" />
+      <node id="S_56" label="S_56" />
+      <node id="S_59" label="S_59" />
+      <node id="S_58" label="S_58" />
+      <node id="S_217" label="S_217" />
+      <node id="C_JOSEPH ZALUCHI" label="C_JOSEPH ZALUCHI" />
+      <node id="S_156" label="S_156" />
+      <node id="S_198" label="S_198" />
+      <node id="S_218" label="S_218" />
+      <node id="S_219" label="S_219" />
+      <node id="S_145" label="S_145" />
+      <node id="C_GIRL" label="C_GIRL" />
+      <node id="C_ANTHONY STRACCI" label="C_ANTHONY STRACCI" />
+      <node id="C_MANCINI" label="C_MANCINI" />
+      <node id="C_BRUNO" label="C_BRUNO" />
+      <node id="C_LEWIS" label="C_LEWIS" />
+      <node id="C_FREDO" label="C_FREDO" />
+      <node id="C_PHILIP TATTAGLIA" label="C_PHILIP TATTAGLIA" />
+      <node id="S_199" label="S_199" />
+      <node id="C_ALFA ROMEO" label="C_ALFA ROMEO" />
+      <node id="C_MAN 2" label="C_MAN 2" />
+      <node id="S_192" label="S_192" />
+      <node id="S_108" label="S_108" />
+      <node id="S_222" label="S_222" />
+      <node id="S_104" label="S_104" />
+      <node id="C_LUCA NODS" label="C_LUCA NODS" />
+      <node id="C_MARY" label="C_MARY" />
+      <node id="S_100" label="S_100" />
+      <node id="S_101" label="S_101" />
+      <node id="S_186" label="S_186" />
+      <node id="S_187" label="S_187" />
+      <node id="C_EMILIO BARZINI" label="C_EMILIO BARZINI" />
+      <node id="S_185" label="S_185" />
+      <node id="S_182" label="S_182" />
+      <node id="S_183" label="S_183" />
+      <node id="S_180" label="S_180" />
+      <node id="S_181" label="S_181" />
+      <node id="S_188" label="S_188" />
+      <node id="S_189" label="S_189" />
+      <node id="S_24" label="S_24" />
+      <node id="S_25" label="S_25" />
+      <node id="S_27" label="S_27" />
+      <node id="S_20" label="S_20" />
+      <node id="S_22" label="S_22" />
+      <node id="S_23" label="S_23" />
+      <node id="S_213" label="S_213" />
+      <node id="S_28" label="S_28" />
+      <node id="S_29" label="S_29" />
+      <node id="S_221" label="S_221" />
+      <node id="S_160" label="S_160" />
+      <node id="S_205" label="S_205" />
+      <node id="S_174" label="S_174" />
+      <node id="S_184" label="S_184" />
+      <node id="C_NERI" label="C_NERI" />
+      <node id="C_LUCY MANCINI" label="C_LUCY MANCINI" />
+      <node id="C_LUNA AZURA" label="C_LUNA AZURA" />
+      <node id="S_172" label="S_172" />
+      <node id="C_GENCO" label="C_GENCO" />
+      <node id="S_139" label="S_139" />
+      <node id="S_138" label="S_138" />
+      <node id="C_DEN" label="C_DEN" />
+      <node id="S_133" label="S_133" />
+      <node id="S_132" label="S_132" />
+      <node id="S_131" label="S_131" />
+      <node id="S_130" label="S_130" />
+      <node id="S_137" label="S_137" />
+      <node id="S_57" label="S_57" />
+      <node id="S_134" label="S_134" />
+      <node id="C_JOHNNY FONTANE" label="C_JOHNNY FONTANE" />
+      <node id="C_CARLO RIZZI" label="C_CARLO RIZZI" />
+      <node id="C_ROCCO" label="C_ROCCO" />
+      <node id="C_TATTAGLIA" label="C_TATTAGLIA" />
+      <node id="C_LUCY" label="C_LUCY" />
+      <node id="C_MOE" label="C_MOE" />
+      <node id="C_HAGEN" label="C_HAGEN" />
+      <node id="C_DRIVER" label="C_DRIVER" />
+      <node id="S_204" label="S_204" />
+      <node id="S_202" label="S_202" />
+      <node id="C_HARRY S. TRUMAN" label="C_HARRY S. TRUMAN" />
+      <node id="S_37" label="S_37" />
+      <node id="S_36" label="S_36" />
+      <node id="S_35" label="S_35" />
+      <node id="S_34" label="S_34" />
+      <node id="S_33" label="S_33" />
+      <node id="S_31" label="S_31" />
+      <node id="S_30" label="S_30" />
+      <node id="C_LUCA" label="C_LUCA" />
+      <node id="S_39" label="S_39" />
+      <node id="S_38" label="S_38" />
+      <node id="S_124" label="S_124" />
+      <node id="S_125" label="S_125" />
+      <node id="C_BAKER" label="C_BAKER" />
+      <node id="C_CUNEO" label="C_CUNEO" />
+      <node id="S_120" label="S_120" />
+      <node id="C_CLEMENZA" label="C_CLEMENZA" />
+      <node id="C_CONNIE" label="C_CONNIE" />
+      <node id="C_OFFICE MANAGER" label="C_OFFICE MANAGER" />
+      <node id="C_DON ZALUCHI" label="C_DON ZALUCHI" />
+      <node id="C_SOLLOZZO" label="C_SOLLOZZO" />
+      <node id="S_129" label="S_129" />
+      <node id="C_THERESA" label="C_THERESA" />
+      <node id="C_AMERIGO BONASERA" label="C_AMERIGO BONASERA" />
+      <node id="S_146" label="S_146" />
+      <node id="C_RUFFINO" label="C_RUFFINO" />
+      <node id="C_MAMA" label="C_MAMA" />
+      <node id="S_147" label="S_147" />
+      <node id="S_88" label="S_88" />
+      <node id="S_89" label="S_89" />
+      <node id="S_7" label="S_7" />
+      <node id="C_COP" label="C_COP" />
+      <node id="S_82" label="S_82" />
+      <node id="C_LAMPONE" label="C_LAMPONE" />
+      <node id="S_80" label="S_80" />
+      <node id="S_81" label="S_81" />
+      <node id="S_86" label="S_86" />
+      <node id="C_GRETEL" label="C_GRETEL" />
+      <node id="S_85" label="S_85" />
+      <node id="C_FABRIZZIO" label="C_FABRIZZIO" />
+      <node id="S_122" label="S_122" />
+      <node id="S_153" label="S_153" />
+      <node id="S_155" label="S_155" />
+      <node id="S_154" label="S_154" />
+      <node id="S_157" label="S_157" />
+      <node id="C_PETER CLEMENZA" label="C_PETER CLEMENZA" />
+      <node id="S_159" label="S_159" />
+      <node id="S_158" label="S_158" />
+      <node id="C_PAULIE GATTO" label="C_PAULIE GATTO" />
+      <node id="S_136" label="S_136" />
+      <node id="S_95" label="S_95" />
+      <node id="S_94" label="S_94" />
+      <node id="S_97" label="S_97" />
+      <node id="S_96" label="S_96" />
+      <node id="S_91" label="S_91" />
+      <node id="S_90" label="S_90" />
+      <node id="C_THERESA HAGEN" label="C_THERESA HAGEN" />
+      <node id="S_92" label="S_92" />
+      <node id="C_TESSIO" label="C_TESSIO" />
+      <node id="C_VOICE" label="C_VOICE" />
+      <node id="C_DON" label="C_DON" />
+      <node id="S_98" label="S_98" />
+      <node id="C_BUTTON MAN" label="C_BUTTON MAN" />
+      <node id="S_212" label="S_212" />
+      <node id="C_DON CORLEONE" label="C_DON CORLEONE" />
+      <node id="C_A DETECTIVE" label="C_A DETECTIVE" />
+      <node id="C_ANTHONY MOLINARI" label="C_ANTHONY MOLINARI" />
+      <node id="C_FRANK FALCONE" label="C_FRANK FALCONE" />
+      <node id="C_CONNIE'S VOICE" label="C_CONNIE'S VOICE" />
+      <node id="S_191" label="S_191" />
+      <node id="C_MRS. BONASERA" label="C_MRS. BONASERA" />
+      <node id="S_19" label="S_19" />
+      <node id="S_18" label="S_18" />
+      <node id="S_15" label="S_15" />
+      <node id="S_14" label="S_14" />
+      <node id="S_17" label="S_17" />
+      <node id="S_16" label="S_16" />
+      <node id="S_11" label="S_11" />
+      <node id="S_10" label="S_10" />
+      <node id="S_13" label="S_13" />
+      <node id="S_12" label="S_12" />
+      <node id="S_1" label="S_1" />
+      <node id="S_143" label="S_143" />
+      <node id="S_3" label="S_3" />
+      <node id="S_2" label="S_2" />
+      <node id="S_5" label="S_5" />
+      <node id="S_4" label="S_4" />
+      <node id="C_NAZORINE" label="C_NAZORINE" />
+      <node id="S_6" label="S_6" />
+      <node id="S_9" label="S_9" />
+      <node id="S_8" label="S_8" />
+      <node id="S_148" label="S_148" />
+      <node id="C_DOMENICK PANZA" label="C_DOMENICK PANZA" />
+      <node id="C_JOHNNY" label="C_JOHNNY" />
+      <node id="C_VIRGIL SOLLOZZO" label="C_VIRGIL SOLLOZZO" />
+      <node id="C_BONASERA" label="C_BONASERA" />
+      <node id="S_207" label="S_207" />
+      <node id="C_ROCCO LAMPONE" label="C_ROCCO LAMPONE" />
+      <node id="C_CARLO" label="C_CARLO" />
+      <node id="C_DON PHILLIP TATTAGLIA" label="C_DON PHILLIP TATTAGLIA" />
+      <node id="S_210" label="S_210" />
+      <node id="C_ROCKEFELLER" label="C_ROCKEFELLER" />
+      <node id="S_142" label="S_142" />
+      <node id="S_203" label="S_203" />
+      <node id="S_102" label="S_102" />
+      <node id="C_SANDRA" label="C_SANDRA" />
+      <node id="C_TOM HAGEN" label="C_TOM HAGEN" />
+      <node id="C_NURSE" label="C_NURSE" />
+      <node id="S_103" label="S_103" />
+      <node id="S_68" label="S_68" />
+      <node id="S_69" label="S_69" />
+      <node id="C_MIKE" label="C_MIKE" />
+      <node id="S_60" label="S_60" />
+      <node id="S_61" label="S_61" />
+      <node id="S_62" label="S_62" />
+      <node id="S_63" label="S_63" />
+      <node id="S_64" label="S_64" />
+      <node id="S_65" label="S_65" />
+      <node id="S_66" label="S_66" />
+      <node id="S_67" label="S_67" />
+      <node id="C_VITELLI" label="C_VITELLI" />
+      <node id="S_179" label="S_179" />
+      <node id="S_178" label="S_178" />
+      <node id="S_177" label="S_177" />
+      <node id="S_176" label="S_176" />
+      <node id="S_175" label="S_175" />
+      <node id="C_WOMAN" label="C_WOMAN" />
+      <node id="S_173" label="S_173" />
+      <node id="C_OTTILIO CUNEO" label="C_OTTILIO CUNEO" />
+      <node id="S_171" label="S_171" />
+      <node id="S_170" label="S_170" />
+      <node id="C_GREENE" label="C_GREENE" />
+      <node id="S_220" label="S_220" />
+      <node id="C_PRIEST" label="C_PRIEST" />
+      <node id="C_WOLTZ" label="C_WOLTZ" />
+      <node id="S_140" label="S_140" />
+      <node id="C_ALBERT NERI" label="C_ALBERT NERI" />
+      <node id="S_87" label="S_87" />
+      <node id="S_211" label="S_211" />
+      <node id="S_77" label="S_77" />
+      <node id="C_DON VINCENENZO FORLENZA" label="C_DON VINCENENZO FORLENZA" />
+      <node id="S_200" label="S_200" />
+      <node id="S_193" label="S_193" />
+      <node id="S_79" label="S_79" />
+      <node id="S_78" label="S_78" />
+      <node id="C_SONNY" label="C_SONNY" />
+      <node id="S_72" label="S_72" />
+      <node id="C_LUCA BRASI" label="C_LUCA BRASI" />
+      <node id="S_70" label="S_70" />
+      <node id="C_KAY ADAMS" label="C_KAY ADAMS" />
+      <node id="S_76" label="S_76" />
+      <node id="S_75" label="S_75" />
+      <node id="S_74" label="S_74" />
+    </nodes>
+    <edges>
+      <edge id="0" source="S_168" target="C_MICHAEL" />
+      <edge id="1" source="S_169" target="C_MICHAEL" />
+      <edge id="2" source="S_169" target="C_CALO" />
+      <edge id="3" source="S_93" target="C_MICHAEL" />
+      <edge id="4" source="S_93" target="C_DON" />
+      <edge id="5" source="S_93" target="C_SONNY" />
+      <edge id="6" source="C_BARZINI" target="S_145" />
+      <edge id="7" source="S_161" target="C_MICHAEL" />
+      <edge id="8" source="S_161" target="C_VITELLI" />
+      <edge id="9" source="S_162" target="C_MICHAEL" />
+      <edge id="10" source="S_162" target="C_VITELLI" />
+      <edge id="11" source="C_CALO" target="S_158" />
+      <edge id="12" source="C_CALO" target="S_169" />
+      <edge id="13" source="C_CALO" target="S_155" />
+      <edge id="14" source="C_CALO" target="S_157" />
+      <edge id="15" source="C_CALO" target="S_156" />
+      <edge id="16" source="S_164" target="C_VITELLI" />
+      <edge id="17" source="S_126" target="C_DON" />
+      <edge id="18" source="S_126" target="C_SONNY" />
+      <edge id="19" source="S_166" target="C_MICHAEL" />
+      <edge id="20" source="S_167" target="C_MICHAEL" />
+      <edge id="21" source="S_167" target="C_DON TOMMASSINO" />
+      <edge id="22" source="S_71" target="C_PAULIE" />
+      <edge id="23" source="C_DON TOMMASSINO" target="S_148" />
+      <edge id="24" source="C_DON TOMMASSINO" target="S_167" />
+      <edge id="25" source="C_PAULIE" target="S_3" />
+      <edge id="26" source="C_PAULIE" target="S_12" />
+      <edge id="27" source="C_PAULIE" target="S_71" />
+      <edge id="28" source="C_PAULIE" target="S_67" />
+      <edge id="29" source="C_PAULIE" target="S_66" />
+      <edge id="30" source="C_PAULIE" target="S_74" />
+      <edge id="31" source="S_46" target="C_DON" />
+      <edge id="32" source="S_47" target="C_DON" />
+      <edge id="33" source="S_44" target="C_HAGEN" />
+      <edge id="34" source="S_44" target="C_MICHAEL" />
+      <edge id="35" source="S_44" target="C_DON CORLEONE" />
+      <edge id="36" source="S_44" target="C_DON" />
+      <edge id="37" source="S_116" target="C_SONNY" />
+      <edge id="38" source="S_42" target="C_MICHAEL" />
+      <edge id="39" source="S_42" target="C_KAY" />
+      <edge id="40" source="S_43" target="C_MICHAEL" />
+      <edge id="41" source="S_40" target="C_WOLTZ" />
+      <edge id="42" source="S_40" target="C_JACK WOLTZ" />
+      <edge id="43" source="C_ENZO" target="S_86" />
+      <edge id="44" source="S_99" target="C_MICHAEL" />
+      <edge id="45" source="S_99" target="C_SOLLOZZO" />
+      <edge id="46" source="S_123" target="C_DON" />
+      <edge id="47" source="S_123" target="C_SONNY" />
+      <edge id="48" source="S_209" target="C_MICHAEL" />
+      <edge id="49" source="S_209" target="C_LAMPONE" />
+      <edge id="50" source="S_208" target="C_MICHAEL" />
+      <edge id="51" source="S_208" target="C_CUNEO" />
+      <edge id="52" source="S_48" target="C_HAGEN" />
+      <edge id="53" source="S_48" target="C_GRETEL" />
+      <edge id="54" source="S_49" target="C_MICHAEL" />
+      <edge id="55" source="S_49" target="C_KAY" />
+      <edge id="56" source="S_49" target="C_MARY" />
+      <edge id="57" source="C_MICHAEL" target="S_168" />
+      <edge id="58" source="C_MICHAEL" target="S_169" />
+      <edge id="59" source="C_MICHAEL" target="S_209" />
+      <edge id="60" source="C_MICHAEL" target="S_148" />
+      <edge id="61" source="C_MICHAEL" target="S_167" />
+      <edge id="62" source="C_MICHAEL" target="S_207" />
+      <edge id="63" source="C_MICHAEL" target="S_49" />
+      <edge id="64" source="C_MICHAEL" target="S_103" />
+      <edge id="65" source="C_MICHAEL" target="S_101" />
+      <edge id="66" source="C_MICHAEL" target="S_204" />
+      <edge id="67" source="C_MICHAEL" target="S_44" />
+      <edge id="68" source="C_MICHAEL" target="S_89" />
+      <edge id="69" source="C_MICHAEL" target="S_42" />
+      <edge id="70" source="C_MICHAEL" target="S_43" />
+      <edge id="71" source="C_MICHAEL" target="S_181" />
+      <edge id="72" source="C_MICHAEL" target="S_82" />
+      <edge id="73" source="C_MICHAEL" target="S_80" />
+      <edge id="74" source="C_MICHAEL" target="S_86" />
+      <edge id="75" source="C_MICHAEL" target="S_87" />
+      <edge id="76" source="C_MICHAEL" target="S_85" />
+      <edge id="77" source="C_MICHAEL" target="S_184" />
+      <edge id="78" source="C_MICHAEL" target="S_22" />
+      <edge id="79" source="C_MICHAEL" target="S_23" />
+      <edge id="80" source="C_MICHAEL" target="S_62" />
+      <edge id="81" source="C_MICHAEL" target="S_63" />
+      <edge id="82" source="C_MICHAEL" target="S_221" />
+      <edge id="83" source="C_MICHAEL" target="S_176" />
+      <edge id="84" source="C_MICHAEL" target="S_153" />
+      <edge id="85" source="C_MICHAEL" target="S_157" />
+      <edge id="86" source="C_MICHAEL" target="S_178" />
+      <edge id="87" source="C_MICHAEL" target="S_158" />
+      <edge id="88" source="C_MICHAEL" target="S_175" />
+      <edge id="89" source="C_MICHAEL" target="S_173" />
+      <edge id="90" source="C_MICHAEL" target="S_88" />
+      <edge id="91" source="C_MICHAEL" target="S_171" />
+      <edge id="92" source="C_MICHAEL" target="S_170" />
+      <edge id="93" source="C_MICHAEL" target="S_94" />
+      <edge id="94" source="C_MICHAEL" target="S_97" />
+      <edge id="95" source="C_MICHAEL" target="S_96" />
+      <edge id="96" source="C_MICHAEL" target="S_91" />
+      <edge id="97" source="C_MICHAEL" target="S_93" />
+      <edge id="98" source="C_MICHAEL" target="S_92" />
+      <edge id="99" source="C_MICHAEL" target="S_182" />
+      <edge id="100" source="C_MICHAEL" target="S_183" />
+      <edge id="101" source="C_MICHAEL" target="S_189" />
+      <edge id="102" source="C_MICHAEL" target="S_217" />
+      <edge id="103" source="C_MICHAEL" target="S_214" />
+      <edge id="104" source="C_MICHAEL" target="S_190" />
+      <edge id="105" source="C_MICHAEL" target="S_179" />
+      <edge id="106" source="C_MICHAEL" target="S_11" />
+      <edge id="107" source="C_MICHAEL" target="S_198" />
+      <edge id="108" source="C_MICHAEL" target="S_218" />
+      <edge id="109" source="C_MICHAEL" target="S_219" />
+      <edge id="110" source="C_MICHAEL" target="S_14" />
+      <edge id="111" source="C_MICHAEL" target="S_16" />
+      <edge id="112" source="C_MICHAEL" target="S_77" />
+      <edge id="113" source="C_MICHAEL" target="S_213" />
+      <edge id="114" source="C_MCCLUSKEY" target="S_88" />
+      <edge id="115" source="C_MCCLUSKEY" target="S_96" />
+      <edge id="116" source="C_MCCLUSKEY" target="S_101" />
+      <edge id="117" source="S_216" target="C_CARLO" />
+      <edge id="118" source="S_216" target="C_MICHAEL" />
+      <edge id="119" source="S_163" target="C_MICHAEL" />
+      <edge id="120" source="S_163" target="C_VITELLI" />
+      <edge id="121" source="S_194" target="C_PETER CLEMENZA" />
+      <edge id="122" source="S_197" target="C_LAMPONE" />
+      <edge id="123" source="S_165" target="C_MICHAEL" />
+      <edge id="124" source="C_THE GODFATHER" target="S_1" />
+      <edge id="125" source="C_KAY" target="S_221" />
+      <edge id="126" source="C_KAY" target="S_182" />
+      <edge id="127" source="C_KAY" target="S_42" />
+      <edge id="128" source="C_KAY" target="S_43" />
+      <edge id="129" source="C_KAY" target="S_181" />
+      <edge id="130" source="C_KAY" target="S_77" />
+      <edge id="131" source="C_KAY" target="S_80" />
+      <edge id="132" source="C_KAY" target="S_49" />
+      <edge id="133" source="C_KAY" target="S_185" />
+      <edge id="134" source="C_KAY" target="S_118" />
+      <edge id="135" source="C_KAY" target="S_14" />
+      <edge id="136" source="C_KAY" target="S_117" />
+      <edge id="137" source="C_KAY" target="S_16" />
+      <edge id="138" source="C_KAY" target="S_11" />
+      <edge id="139" source="S_119" target="C_HAGEN" />
+      <edge id="140" source="S_119" target="C_DON" />
+      <edge id="141" source="S_118" target="C_HAGEN" />
+      <edge id="142" source="S_118" target="C_KAY" />
+      <edge id="143" source="S_118" target="C_DON" />
+      <edge id="144" source="S_115" target="C_SONNY" />
+      <edge id="145" source="S_114" target="C_LUCY MANCINI" />
+      <edge id="146" source="S_114" target="C_SONNY" />
+      <edge id="147" source="S_117" target="C_TOM HAGEN" />
+      <edge id="148" source="S_117" target="C_KAY" />
+      <edge id="149" source="S_117" target="C_KAY ADAMS" />
+      <edge id="150" source="C_MAN" target="S_60" />
+      <edge id="151" source="C_MAN" target="S_53" />
+      <edge id="152" source="C_MAN" target="S_113" />
+      <edge id="153" source="C_MAN" target="S_219" />
+      <edge id="154" source="C_APPOLONIA" target="S_160" />
+      <edge id="155" source="C_APPOLONIA" target="S_170" />
+      <edge id="156" source="C_APPOLONIA" target="S_167" />
+      <edge id="157" source="S_110" target="C_RUFFINO" />
+      <edge id="158" source="S_190" target="C_MICHAEL" />
+      <edge id="159" source="S_190" target="C_HAGEN" />
+      <edge id="160" source="S_190" target="C_TOM HAGEN" />
+      <edge id="161" source="S_190" target="C_CORLEONE" />
+      <edge id="162" source="S_51" target="C_LUCA BRASI" />
+      <edge id="163" source="S_50" target="C_DON CORLEONE" />
+      <edge id="164" source="S_50" target="C_DON" />
+      <edge id="165" source="S_53" target="C_LUCA NODS" />
+      <edge id="166" source="S_53" target="C_BRUNO TATTAGLIA" />
+      <edge id="167" source="S_214" target="C_CARLO" />
+      <edge id="168" source="S_214" target="C_MICHAEL" />
+      <edge id="169" source="S_55" target="C_SONNY" />
+      <edge id="170" source="S_54" target="C_SANDRA" />
+      <edge id="171" source="S_54" target="C_SONNY" />
+      <edge id="172" source="S_56" target="C_DON" />
+      <edge id="173" source="S_56" target="C_SONNY" />
+      <edge id="174" source="S_59" target="C_HAGEN" />
+      <edge id="175" source="S_58" target="C_HAGEN" />
+      <edge id="176" source="S_217" target="C_MICHAEL" />
+      <edge id="177" source="S_217" target="C_NERI" />
+      <edge id="178" source="S_156" target="C_MICHAEL" />
+      <edge id="179" source="S_156" target="C_CALO" />
+      <edge id="180" source="S_218" target="C_MICHAEL" />
+      <edge id="181" source="S_219" target="C_MICHAEL" />
+      <edge id="182" source="S_145" target="C_DON CORLEONE" />
+      <edge id="183" source="S_145" target="C_JOSEPH ZALUCHI" />
+      <edge id="184" source="S_145" target="C_ANTHONY MOLINARI" />
+      <edge id="185" source="S_145" target="C_FRANK FALCONE" />
+      <edge id="186" source="S_145" target="C_OTTILIO CUNEO" />
+      <edge id="187" source="S_145" target="C_DOMENICK PANZA" />
+      <edge id="188" source="S_145" target="C_DON VINCENENZO FORLENZA" />
+      <edge id="189" source="S_145" target="C_TOM HAGEN" />
+      <edge id="190" source="S_145" target="C_ANTHONY STRACCI" />
+      <edge id="191" source="S_145" target="C_DON" />
+      <edge id="192" source="S_145" target="C_DON PHILLIP TATTAGLIA" />
+      <edge id="193" source="S_145" target="C_EMILIO BARZINI" />
+      <edge id="194" source="S_145" target="C_HAGEN" />
+      <edge id="195" source="C_GIRL" target="S_128" />
+      <edge id="196" source="C_GIRL" target="S_189" />
+      <edge id="197" source="C_BRUNO" target="S_66" />
+      <edge id="198" source="C_FREDO" target="S_125" />
+      <edge id="199" source="C_FREDO" target="S_44" />
+      <edge id="200" source="C_FREDO" target="S_179" />
+      <edge id="201" source="C_FREDO" target="S_178" />
+      <edge id="202" source="C_FREDO" target="S_176" />
+      <edge id="203" source="C_FREDO" target="S_175" />
+      <edge id="204" source="C_FREDO" target="S_174" />
+      <edge id="205" source="S_199" target="C_NERI" />
+      <edge id="206" source="C_MAN 2" target="S_60" />
+      <edge id="207" source="S_192" target="C_MICHAEL" />
+      <edge id="208" source="S_108" target="C_HARRY S. TRUMAN" />
+      <edge id="209" source="S_222" target="C_MICHAEL" />
+      <edge id="210" source="S_222" target="C_NERI" />
+      <edge id="211" source="S_222" target="C_DON" />
+      <edge id="212" source="S_222" target="C_ROCCO LAMPONE" />
+      <edge id="213" source="S_104" target="C_ROCCO LAMPONE" />
+      <edge id="214" source="S_100" target="C_MICHAEL" />
+      <edge id="215" source="S_100" target="C_MCCLUSKEY" />
+      <edge id="216" source="S_101" target="C_MICHAEL" />
+      <edge id="217" source="S_101" target="C_MCCLUSKEY" />
+      <edge id="218" source="S_101" target="C_LUNA AZURA" />
+      <edge id="219" source="S_186" target="C_KAY" />
+      <edge id="220" source="S_187" target="C_BONASERA" />
+      <edge id="221" source="S_185" target="C_KAY" />
+      <edge id="222" source="S_182" target="C_MICHAEL" />
+      <edge id="223" source="S_182" target="C_SONNY" />
+      <edge id="224" source="S_183" target="C_DON CORLEONE" />
+      <edge id="225" source="S_183" target="C_HAGEN" />
+      <edge id="226" source="S_183" target="C_NERI" />
+      <edge id="227" source="S_183" target="C_DEN" />
+      <edge id="228" source="S_183" target="C_MICHAEL" />
+      <edge id="229" source="S_183" target="C_CARLO" />
+      <edge id="230" source="S_183" target="C_DON" />
+      <edge id="231" source="S_180" target="C_MICHAEL" />
+      <edge id="232" source="S_180" target="C_HAGEN" />
+      <edge id="233" source="S_180" target="C_NERI" />
+      <edge id="234" source="S_180" target="C_ROCCO LAMPONE" />
+      <edge id="235" source="S_180" target="C_LAMPONE" />
+      <edge id="236" source="S_188" target="C_JOHNNY FONTANE" />
+      <edge id="237" source="S_188" target="C_DON CORLEONE" />
+      <edge id="238" source="S_188" target="C_FREDO" />
+      <edge id="239" source="S_188" target="C_MICHAEL" />
+      <edge id="240" source="S_188" target="C_BARZINI" />
+      <edge id="241" source="S_188" target="C_LAMPONE" />
+      <edge id="242" source="S_188" target="C_BONASERA" />
+      <edge id="243" source="S_188" target="C_CARLO" />
+      <edge id="244" source="S_188" target="C_NERI" />
+      <edge id="245" source="S_188" target="C_PHILIP TATTAGLIA" />
+      <edge id="246" source="S_189" target="C_MICHAEL" />
+      <edge id="247" source="S_189" target="C_TESSIO" />
+      <edge id="248" source="S_189" target="C_NERI" />
+      <edge id="249" source="S_24" target="C_GENCO" />
+      <edge id="250" source="S_24" target="C_DON CORLEONE" />
+      <edge id="251" source="S_24" target="C_JOHNNY" />
+      <edge id="252" source="S_25" target="C_HAGEN" />
+      <edge id="253" source="S_27" target="C_DON CORLEONE" />
+      <edge id="254" source="S_27" target="C_DON" />
+      <edge id="255" source="S_27" target="C_LUCA BRASI" />
+      <edge id="256" source="S_20" target="C_HAGEN" />
+      <edge id="257" source="S_20" target="C_DON" />
+      <edge id="258" source="S_20" target="C_SONNY" />
+      <edge id="259" source="S_20" target="C_JOHNNY" />
+      <edge id="260" source="S_22" target="C_MICHAEL" />
+      <edge id="261" source="S_22" target="C_DON" />
+      <edge id="262" source="S_22" target="C_JOHNNY" />
+      <edge id="263" source="S_22" target="C_SONNY" />
+      <edge id="264" source="S_23" target="C_MICHAEL" />
+      <edge id="265" source="S_23" target="C_DON CORLEONE" />
+      <edge id="266" source="S_23" target="C_DON" />
+      <edge id="267" source="S_213" target="C_HAGEN" />
+      <edge id="268" source="S_213" target="C_LAMPONE" />
+      <edge id="269" source="S_28" target="C_MANCINI" />
+      <edge id="270" source="S_28" target="C_SONNY" />
+      <edge id="271" source="S_29" target="C_LUCA BRASI" />
+      <edge id="272" source="S_29" target="C_LUCA" />
+      <edge id="273" source="S_221" target="C_MICHAEL" />
+      <edge id="274" source="S_221" target="C_NERI" />
+      <edge id="275" source="S_221" target="C_KAY" />
+      <edge id="276" source="S_221" target="C_DON" />
+      <edge id="277" source="S_221" target="C_CORLEONE" />
+      <edge id="278" source="S_160" target="C_MICHAEL" />
+      <edge id="279" source="S_160" target="C_VITELLI" />
+      <edge id="280" source="S_205" target="C_PHILIP TATTAGLIA" />
+      <edge id="281" source="S_174" target="C_LEWIS" />
+      <edge id="282" source="S_184" target="C_MICHAEL" />
+      <edge id="283" source="S_184" target="C_DON" />
+      <edge id="284" source="C_NERI" target="S_217" />
+      <edge id="285" source="C_NERI" target="S_199" />
+      <edge id="286" source="S_172" target="C_MICHAEL" />
+      <edge id="287" source="S_172" target="C_DON" />
+      <edge id="288" source="C_GENCO" target="S_24" />
+      <edge id="289" source="S_139" target="C_SONNY" />
+      <edge id="290" source="S_138" target="C_BONASERA" />
+      <edge id="291" source="S_138" target="C_DON CORLEONE" />
+      <edge id="292" source="S_138" target="C_SONNY CORLEONE" />
+      <edge id="293" source="S_133" target="C_SONNY" />
+      <edge id="294" source="S_132" target="C_SONNY" />
+      <edge id="295" source="S_131" target="C_HAGEN" />
+      <edge id="296" source="S_131" target="C_SONNY" />
+      <edge id="297" source="S_130" target="C_HAGEN" />
+      <edge id="298" source="S_130" target="C_DON" />
+      <edge id="299" source="S_130" target="C_SONNY" />
+      <edge id="300" source="S_137" target="C_BONASERA" />
+      <edge id="301" source="S_57" target="C_LUCA BRASI" />
+      <edge id="302" source="S_57" target="C_DON" />
+      <edge id="303" source="S_57" target="C_SONNY" />
+      <edge id="304" source="S_134" target="C_BONASERA" />
+      <edge id="305" source="S_134" target="C_AMERIGO BONASERA" />
+      <edge id="306" source="C_TATTAGLIA" target="S_145" />
+      <edge id="307" source="C_LUCY" target="S_18" />
+      <edge id="308" source="C_MOE" target="S_179" />
+      <edge id="309" source="C_HAGEN" target="S_125" />
+      <edge id="310" source="C_HAGEN" target="S_140" />
+      <edge id="311" source="C_HAGEN" target="S_5" />
+      <edge id="312" source="C_HAGEN" target="S_4" />
+      <edge id="313" source="C_HAGEN" target="S_6" />
+      <edge id="314" source="C_HAGEN" target="S_146" />
+      <edge id="315" source="C_HAGEN" target="S_131" />
+      <edge id="316" source="C_HAGEN" target="S_44" />
+      <edge id="317" source="C_HAGEN" target="S_183" />
+      <edge id="318" source="C_HAGEN" target="S_48" />
+      <edge id="319" source="C_HAGEN" target="S_20" />
+      <edge id="320" source="C_HAGEN" target="S_63" />
+      <edge id="321" source="C_HAGEN" target="S_66" />
+      <edge id="322" source="C_HAGEN" target="S_143" />
+      <edge id="323" source="C_HAGEN" target="S_94" />
+      <edge id="324" source="C_HAGEN" target="S_91" />
+      <edge id="325" source="C_HAGEN" target="S_118" />
+      <edge id="326" source="C_HAGEN" target="S_93" />
+      <edge id="327" source="C_HAGEN" target="S_117" />
+      <edge id="328" source="C_HAGEN" target="S_134" />
+      <edge id="329" source="C_HAGEN" target="S_190" />
+      <edge id="330" source="C_HAGEN" target="S_210" />
+      <edge id="331" source="C_HAGEN" target="S_211" />
+      <edge id="332" source="C_HAGEN" target="S_58" />
+      <edge id="333" source="C_HAGEN" target="S_37" />
+      <edge id="334" source="C_HAGEN" target="S_19" />
+      <edge id="335" source="C_HAGEN" target="S_18" />
+      <edge id="336" source="C_HAGEN" target="S_15" />
+      <edge id="337" source="C_HAGEN" target="S_14" />
+      <edge id="338" source="C_HAGEN" target="S_17" />
+      <edge id="339" source="C_HAGEN" target="S_39" />
+      <edge id="340" source="C_DRIVER" target="S_95" />
+      <edge id="341" source="C_DRIVER" target="S_114" />
+      <edge id="342" source="C_DRIVER" target="S_199" />
+      <edge id="343" source="S_204" target="C_MICHAEL" />
+      <edge id="344" source="S_37" target="C_HAGEN" />
+      <edge id="345" source="S_37" target="C_WOLTZ" />
+      <edge id="346" source="S_36" target="C_HAGEN" />
+      <edge id="347" source="S_36" target="C_WOLTZ" />
+      <edge id="348" source="S_35" target="C_HAGEN" />
+      <edge id="349" source="S_35" target="C_WOLTZ" />
+      <edge id="350" source="S_35" target="C_JACK WOLTZ" />
+      <edge id="351" source="S_34" target="C_HAGEN" />
+      <edge id="352" source="S_34" target="C_DON CORLEONE" />
+      <edge id="353" source="S_34" target="C_DON" />
+      <edge id="354" source="S_33" target="C_HAGEN" />
+      <edge id="355" source="S_33" target="C_JACK WOLTZ" />
+      <edge id="356" source="S_31" target="C_MICHAEL" />
+      <edge id="357" source="S_30" target="C_DON CORLEONE" />
+      <edge id="358" source="S_30" target="C_DON" />
+      <edge id="359" source="C_LUCA" target="S_15" />
+      <edge id="360" source="C_LUCA" target="S_53" />
+      <edge id="361" source="S_39" target="C_HAGEN" />
+      <edge id="362" source="S_39" target="C_DON CORLEONE" />
+      <edge id="363" source="S_39" target="C_DON" />
+      <edge id="364" source="S_39" target="C_SONNY" />
+      <edge id="365" source="S_38" target="C_VIRGIL SOLLOZZO" />
+      <edge id="366" source="S_124" target="C_DON" />
+      <edge id="367" source="S_125" target="C_HAGEN" />
+      <edge id="368" source="S_125" target="C_DON" />
+      <edge id="369" source="S_125" target="C_SONNY" />
+      <edge id="370" source="S_120" target="C_ROCCO LAMPONE" />
+      <edge id="371" source="C_CLEMENZA" target="S_183" />
+      <edge id="372" source="C_CLEMENZA" target="S_3" />
+      <edge id="373" source="C_CLEMENZA" target="S_89" />
+      <edge id="374" source="C_CLEMENZA" target="S_54" />
+      <edge id="375" source="C_CLEMENZA" target="S_74" />
+      <edge id="376" source="C_CLEMENZA" target="S_222" />
+      <edge id="377" source="C_CLEMENZA" target="S_76" />
+      <edge id="378" source="C_CLEMENZA" target="S_94" />
+      <edge id="379" source="C_CLEMENZA" target="S_75" />
+      <edge id="380" source="C_CLEMENZA" target="S_93" />
+      <edge id="381" source="C_CLEMENZA" target="S_92" />
+      <edge id="382" source="C_CLEMENZA" target="S_72" />
+      <edge id="383" source="C_CLEMENZA" target="S_62" />
+      <edge id="384" source="C_CLEMENZA" target="S_70" />
+      <edge id="385" source="C_CLEMENZA" target="S_77" />
+      <edge id="386" source="C_CLEMENZA" target="S_71" />
+      <edge id="387" source="C_CLEMENZA" target="S_66" />
+      <edge id="388" source="C_CLEMENZA" target="S_67" />
+      <edge id="389" source="C_CONNIE" target="S_124" />
+      <edge id="390" source="C_CONNIE" target="S_221" />
+      <edge id="391" source="C_CONNIE" target="S_209" />
+      <edge id="392" source="C_CONNIE" target="S_128" />
+      <edge id="393" source="C_CONNIE" target="S_129" />
+      <edge id="394" source="C_CONNIE" target="S_115" />
+      <edge id="395" source="C_CONNIE" target="S_130" />
+      <edge id="396" source="C_OFFICE MANAGER" target="S_46" />
+      <edge id="397" source="C_DON ZALUCHI" target="S_145" />
+      <edge id="398" source="C_SOLLOZZO" target="S_53" />
+      <edge id="399" source="C_SOLLOZZO" target="S_54" />
+      <edge id="400" source="C_SOLLOZZO" target="S_59" />
+      <edge id="401" source="C_SOLLOZZO" target="S_58" />
+      <edge id="402" source="C_SOLLOZZO" target="S_48" />
+      <edge id="403" source="C_SOLLOZZO" target="S_97" />
+      <edge id="404" source="C_SOLLOZZO" target="S_96" />
+      <edge id="405" source="C_SOLLOZZO" target="S_66" />
+      <edge id="406" source="C_SOLLOZZO" target="S_99" />
+      <edge id="407" source="C_SOLLOZZO" target="S_39" />
+      <edge id="408" source="C_SOLLOZZO" target="S_101" />
+      <edge id="409" source="S_129" target="C_SONNY" />
+      <edge id="410" source="S_146" target="C_TOM HAGEN" />
+      <edge id="411" source="S_146" target="C_DON" />
+      <edge id="412" source="C_MAMA" target="S_186" />
+      <edge id="413" source="C_MAMA" target="S_185" />
+      <edge id="414" source="C_MAMA" target="S_118" />
+      <edge id="415" source="C_MAMA" target="S_56" />
+      <edge id="416" source="S_147" target="C_MICHAEL" />
+      <edge id="417" source="S_88" target="C_BAKER" />
+      <edge id="418" source="S_88" target="C_MICHAEL" />
+      <edge id="419" source="S_88" target="C_ENZO" />
+      <edge id="420" source="S_88" target="C_MCCLUSKEY" />
+      <edge id="421" source="S_88" target="C_DON" />
+      <edge id="422" source="S_88" target="C_HAGEN" />
+      <edge id="423" source="S_89" target="C_MICHAEL" />
+      <edge id="424" source="S_89" target="C_LAMPONE" />
+      <edge id="425" source="S_89" target="C_HAGEN" />
+      <edge id="426" source="S_7" target="C_KAY ADAMS" />
+      <edge id="427" source="S_7" target="C_MICHAEL CORLEONE" />
+      <edge id="428" source="C_COP" target="S_88" />
+      <edge id="429" source="S_82" target="C_MICHAEL" />
+      <edge id="430" source="C_LAMPONE" target="S_74" />
+      <edge id="431" source="C_LAMPONE" target="S_67" />
+      <edge id="432" source="S_80" target="C_MICHAEL" />
+      <edge id="433" source="S_81" target="C_MICHAEL" />
+      <edge id="434" source="S_81" target="C_DON" />
+      <edge id="435" source="S_86" target="C_MICHAEL" />
+      <edge id="436" source="S_86" target="C_ENZO" />
+      <edge id="437" source="S_85" target="C_MICHAEL" />
+      <edge id="438" source="S_85" target="C_DON" />
+      <edge id="439" source="C_FABRIZZIO" target="S_168" />
+      <edge id="440" source="C_FABRIZZIO" target="S_158" />
+      <edge id="441" source="C_FABRIZZIO" target="S_153" />
+      <edge id="442" source="C_FABRIZZIO" target="S_154" />
+      <edge id="443" source="C_FABRIZZIO" target="S_157" />
+      <edge id="444" source="S_122" target="C_LAMPONE" />
+      <edge id="445" source="S_122" target="C_SANDRA" />
+      <edge id="446" source="S_122" target="C_DON" />
+      <edge id="447" source="S_122" target="C_THERESA" />
+      <edge id="448" source="S_153" target="C_MICHAEL" />
+      <edge id="449" source="S_155" target="C_CORLEONE" />
+      <edge id="450" source="S_157" target="C_MICHAEL" />
+      <edge id="451" source="S_157" target="C_CALO" />
+      <edge id="452" source="S_159" target="C_MICHAEL" />
+      <edge id="453" source="S_159" target="C_ALFA ROMEO" />
+      <edge id="454" source="S_159" target="C_CALO" />
+      <edge id="455" source="S_158" target="C_MICHAEL" />
+      <edge id="456" source="S_158" target="C_VITELLI" />
+      <edge id="457" source="S_158" target="C_CALO" />
+      <edge id="458" source="S_136" target="C_BONASERA" />
+      <edge id="459" source="S_95" target="C_MICHAEL" />
+      <edge id="460" source="S_94" target="C_HAGEN" />
+      <edge id="461" source="S_94" target="C_MICHAEL" />
+      <edge id="462" source="S_94" target="C_DON" />
+      <edge id="463" source="S_97" target="C_MICHAEL" />
+      <edge id="464" source="S_97" target="C_SOLLOZZO" />
+      <edge id="465" source="S_96" target="C_MICHAEL" />
+      <edge id="466" source="S_96" target="C_SOLLOZZO" />
+      <edge id="467" source="S_96" target="C_MIKE" />
+      <edge id="468" source="S_91" target="C_MICHAEL" />
+      <edge id="469" source="S_91" target="C_HAGEN" />
+      <edge id="470" source="S_91" target="C_DON" />
+      <edge id="471" source="S_91" target="C_SONNY" />
+      <edge id="472" source="S_90" target="C_DON" />
+      <edge id="473" source="S_92" target="C_MICHAEL" />
+      <edge id="474" source="C_TESSIO" target="S_89" />
+      <edge id="475" source="C_TESSIO" target="S_183" />
+      <edge id="476" source="C_TESSIO" target="S_210" />
+      <edge id="477" source="C_TESSIO" target="S_211" />
+      <edge id="478" source="C_TESSIO" target="S_189" />
+      <edge id="479" source="C_TESSIO" target="S_94" />
+      <edge id="480" source="C_TESSIO" target="S_57" />
+      <edge id="481" source="C_VOICE" target="S_54" />
+      <edge id="482" source="C_VOICE" target="S_85" />
+      <edge id="483" source="S_98" target="C_SOLLOZZO" />
+      <edge id="484" source="C_BUTTON MAN" target="S_211" />
+      <edge id="485" source="S_212" target="C_CARLO" />
+      <edge id="486" source="S_212" target="C_CARLO RIZZI" />
+      <edge id="487" source="C_DON CORLEONE" target="S_1" />
+      <edge id="488" source="C_DON CORLEONE" target="S_143" />
+      <edge id="489" source="C_DON CORLEONE" target="S_2" />
+      <edge id="490" source="C_DON CORLEONE" target="S_146" />
+      <edge id="491" source="C_DON CORLEONE" target="S_4" />
+      <edge id="492" source="C_DON CORLEONE" target="S_6" />
+      <edge id="493" source="C_DON CORLEONE" target="S_46" />
+      <edge id="494" source="C_DON CORLEONE" target="S_44" />
+      <edge id="495" source="C_DON CORLEONE" target="S_183" />
+      <edge id="496" source="C_DON CORLEONE" target="S_41" />
+      <edge id="497" source="C_DON CORLEONE" target="S_145" />
+      <edge id="498" source="C_DON CORLEONE" target="S_24" />
+      <edge id="499" source="C_DON CORLEONE" target="S_27" />
+      <edge id="500" source="C_DON CORLEONE" target="S_20" />
+      <edge id="501" source="C_DON CORLEONE" target="S_22" />
+      <edge id="502" source="C_DON CORLEONE" target="S_23" />
+      <edge id="503" source="C_DON CORLEONE" target="S_184" />
+      <edge id="504" source="C_DON CORLEONE" target="S_173" />
+      <edge id="505" source="C_DON CORLEONE" target="S_172" />
+      <edge id="506" source="C_DON CORLEONE" target="S_138" />
+      <edge id="507" source="C_DON CORLEONE" target="S_50" />
+      <edge id="508" source="C_DON CORLEONE" target="S_34" />
+      <edge id="509" source="C_DON CORLEONE" target="S_15" />
+      <edge id="510" source="C_DON CORLEONE" target="S_16" />
+      <edge id="511" source="C_DON CORLEONE" target="S_39" />
+      <edge id="512" source="C_A DETECTIVE" target="S_88" />
+      <edge id="513" source="C_CONNIE'S VOICE" target="S_115" />
+      <edge id="514" source="S_191" target="C_ALBERT NERI" />
+      <edge id="515" source="S_191" target="C_NERI" />
+      <edge id="516" source="C_MRS. BONASERA" target="S_134" />
+      <edge id="517" source="S_19" target="C_HAGEN" />
+      <edge id="518" source="S_19" target="C_DON" />
+      <edge id="519" source="S_18" target="C_DON" />
+      <edge id="520" source="S_15" target="C_HAGEN" />
+      <edge id="521" source="S_15" target="C_DON CORLEONE" />
+      <edge id="522" source="S_15" target="C_DON" />
+      <edge id="523" source="S_14" target="C_MICHAEL" />
+      <edge id="524" source="S_14" target="C_HAGEN" />
+      <edge id="525" source="S_14" target="C_LUCA BRASI" />
+      <edge id="526" source="S_14" target="C_TOM HAGEN" />
+      <edge id="527" source="S_14" target="C_LUCA" />
+      <edge id="528" source="S_17" target="C_HAGEN" />
+      <edge id="529" source="S_17" target="C_DON" />
+      <edge id="530" source="S_16" target="C_HAGEN" />
+      <edge id="531" source="S_16" target="C_JOHNNY FONTANE" />
+      <edge id="532" source="S_16" target="C_DON CORLEONE" />
+      <edge id="533" source="S_16" target="C_SONNY" />
+      <edge id="534" source="S_16" target="C_JOHNNY" />
+      <edge id="535" source="S_10" target="C_DON" />
+      <edge id="536" source="S_13" target="C_DON" />
+      <edge id="537" source="S_13" target="C_SONNY" />
+      <edge id="538" source="S_12" target="C_SANDRA" />
+      <edge id="539" source="S_12" target="C_CARLO RIZZI" />
+      <edge id="540" source="S_12" target="C_PAULIE GATTO" />
+      <edge id="541" source="S_12" target="C_LUCY MANCINI" />
+      <edge id="542" source="S_12" target="C_SONNY" />
+      <edge id="543" source="S_1" target="C_DON CORLEONE" />
+      <edge id="544" source="S_1" target="C_HAGEN" />
+      <edge id="545" source="S_1" target="C_SONNY CORLEONE" />
+      <edge id="546" source="S_1" target="C_TOM HAGEN" />
+      <edge id="547" source="S_1" target="C_BONASERA" />
+      <edge id="548" source="S_1" target="C_AMERIGO BONASERA" />
+      <edge id="549" source="S_1" target="C_DON" />
+      <edge id="550" source="S_1" target="C_SONNY" />
+      <edge id="551" source="S_143" target="C_HAGEN" />
+      <edge id="552" source="S_143" target="C_DON CORLEONE" />
+      <edge id="553" source="S_143" target="C_DON" />
+      <edge id="554" source="S_3" target="C_BARZINI" />
+      <edge id="555" source="S_3" target="C_PETER CLEMENZA" />
+      <edge id="556" source="S_3" target="C_DON CORLEONE" />
+      <edge id="557" source="S_3" target="C_PAULIE" />
+      <edge id="558" source="S_3" target="C_SONNY" />
+      <edge id="559" source="S_2" target="C_DON CORLEONE" />
+      <edge id="560" source="S_2" target="C_FREDO" />
+      <edge id="561" source="S_2" target="C_HAGEN" />
+      <edge id="562" source="S_2" target="C_LUCY MANCINI" />
+      <edge id="563" source="S_2" target="C_SANDRA" />
+      <edge id="564" source="S_2" target="C_TOM HAGEN" />
+      <edge id="565" source="S_2" target="C_THERESA" />
+      <edge id="566" source="S_2" target="C_CARLO RIZZI" />
+      <edge id="567" source="S_2" target="C_DON" />
+      <edge id="568" source="S_2" target="C_SONNY" />
+      <edge id="569" source="S_5" target="C_LUCA BRASI" />
+      <edge id="570" source="S_4" target="C_DON CORLEONE" />
+      <edge id="571" source="S_4" target="C_DON" />
+      <edge id="572" source="C_NAZORINE" target="S_4" />
+      <edge id="573" source="S_6" target="C_HAGEN" />
+      <edge id="574" source="S_6" target="C_DON" />
+      <edge id="575" source="S_9" target="C_MICHAEL" />
+      <edge id="576" source="S_8" target="C_DON" />
+      <edge id="577" source="S_148" target="C_MICHAEL" />
+      <edge id="578" source="S_148" target="C_DON TOMMASSINO" />
+      <edge id="579" source="C_JOHNNY" target="S_16" />
+      <edge id="580" source="C_JOHNNY" target="S_20" />
+      <edge id="581" source="C_JOHNNY" target="S_179" />
+      <edge id="582" source="C_BONASERA" target="S_1" />
+      <edge id="583" source="C_BONASERA" target="S_143" />
+      <edge id="584" source="C_BONASERA" target="S_138" />
+      <edge id="585" source="C_BONASERA" target="S_134" />
+      <edge id="586" source="S_207" target="C_MICHAEL" />
+      <edge id="587" source="C_CARLO" target="S_124" />
+      <edge id="588" source="C_CARLO" target="S_214" />
+      <edge id="589" source="C_CARLO" target="S_183" />
+      <edge id="590" source="C_CARLO" target="S_128" />
+      <edge id="591" source="C_CARLO" target="S_209" />
+      <edge id="592" source="C_CARLO" target="S_129" />
+      <edge id="593" source="C_CARLO" target="S_213" />
+      <edge id="594" source="C_CARLO" target="S_12" />
+      <edge id="595" source="S_210" target="C_HAGEN" />
+      <edge id="596" source="S_210" target="C_DON" />
+      <edge id="597" source="S_142" target="C_HAGEN" />
+      <edge id="598" source="S_142" target="C_DON" />
+      <edge id="599" source="S_203" target="C_BARZINI" />
+      <edge id="600" source="S_203" target="C_ROCKEFELLER" />
+      <edge id="601" source="S_102" target="C_MICHAEL" />
+      <edge id="602" source="S_102" target="C_LUNA AZURA" />
+      <edge id="603" source="C_SANDRA" target="S_2" />
+      <edge id="604" source="C_SANDRA" target="S_54" />
+      <edge id="605" source="C_NURSE" target="S_87" />
+      <edge id="606" source="C_NURSE" target="S_85" />
+      <edge id="607" source="S_103" target="C_MICHAEL" />
+      <edge id="608" source="S_103" target="C_MCCLUSKEY" />
+      <edge id="609" source="S_103" target="C_LUNA AZURA" />
+      <edge id="610" source="S_68" target="C_LAMPONE" />
+      <edge id="611" source="S_68" target="C_PAULIE" />
+      <edge id="612" source="S_69" target="C_PAULIE" />
+      <edge id="613" source="S_60" target="C_MICHAEL" />
+      <edge id="614" source="S_61" target="C_MICHAEL" />
+      <edge id="615" source="S_62" target="C_MICHAEL" />
+      <edge id="616" source="S_62" target="C_PAULIE GATTO" />
+      <edge id="617" source="S_62" target="C_DON" />
+      <edge id="618" source="S_62" target="C_THERESA" />
+      <edge id="619" source="S_62" target="C_THERESA HAGEN" />
+      <edge id="620" source="S_63" target="C_MICHAEL" />
+      <edge id="621" source="S_63" target="C_TOM HAGEN" />
+      <edge id="622" source="S_63" target="C_DON" />
+      <edge id="623" source="S_63" target="C_THERESA" />
+      <edge id="624" source="S_64" target="C_DON" />
+      <edge id="625" source="S_65" target="C_PAULIE GATTO" />
+      <edge id="626" source="S_65" target="C_DON" />
+      <edge id="627" source="S_66" target="C_BRUNO TATTAGLIA" />
+      <edge id="628" source="S_66" target="C_MICHAEL" />
+      <edge id="629" source="S_66" target="C_PAULIE GATTO" />
+      <edge id="630" source="S_66" target="C_HAGEN" />
+      <edge id="631" source="S_66" target="C_LUCA BRASI" />
+      <edge id="632" source="S_66" target="C_DON" />
+      <edge id="633" source="S_67" target="C_GATTO" />
+      <edge id="634" source="S_67" target="C_ROCCO" />
+      <edge id="635" source="S_67" target="C_LAMPONE" />
+      <edge id="636" source="S_67" target="C_SOLLOZZO" />
+      <edge id="637" source="S_67" target="C_ROCCO LAMPONE" />
+      <edge id="638" source="S_67" target="C_PAULIE" />
+      <edge id="639" source="C_VITELLI" target="S_158" />
+      <edge id="640" source="S_179" target="C_MICHAEL" />
+      <edge id="641" source="S_179" target="C_GREENE" />
+      <edge id="642" source="S_179" target="C_NERI" />
+      <edge id="643" source="S_179" target="C_JOHNNY" />
+      <edge id="644" source="S_178" target="C_HAGEN" />
+      <edge id="645" source="S_178" target="C_JOHNNY FONTANE" />
+      <edge id="646" source="S_178" target="C_FREDO" />
+      <edge id="647" source="S_177" target="C_MICHAEL" />
+      <edge id="648" source="S_176" target="C_MICHAEL" />
+      <edge id="649" source="S_176" target="C_HAGEN" />
+      <edge id="650" source="S_176" target="C_FREDO" />
+      <edge id="651" source="S_175" target="C_MICHAEL" />
+      <edge id="652" source="S_175" target="C_TOM HAGEN" />
+      <edge id="653" source="C_WOMAN" target="S_12" />
+      <edge id="654" source="S_173" target="C_MICHAEL" />
+      <edge id="655" source="S_173" target="C_DON CORLEONE" />
+      <edge id="656" source="S_173" target="C_DON" />
+      <edge id="657" source="S_171" target="C_MICHAEL" />
+      <edge id="658" source="S_171" target="C_DON TOMMASSINO" />
+      <edge id="659" source="S_170" target="C_MICHAEL" />
+      <edge id="660" source="S_170" target="C_CALO" />
+      <edge id="661" source="S_220" target="C_MICHAEL" />
+      <edge id="662" source="C_PRIEST" target="S_204" />
+      <edge id="663" source="C_PRIEST" target="S_207" />
+      <edge id="664" source="C_PRIEST" target="S_198" />
+      <edge id="665" source="C_PRIEST" target="S_208" />
+      <edge id="666" source="C_PRIEST" target="S_202" />
+      <edge id="667" source="C_WOLTZ" target="S_37" />
+      <edge id="668" source="C_WOLTZ" target="S_36" />
+      <edge id="669" source="S_140" target="C_HAGEN" />
+      <edge id="670" source="S_140" target="C_DON" />
+      <edge id="671" source="S_87" target="C_MICHAEL" />
+      <edge id="672" source="S_87" target="C_DON" />
+      <edge id="673" source="S_211" target="C_HAGEN" />
+      <edge id="674" source="S_77" target="C_MICHAEL" />
+      <edge id="675" source="S_77" target="C_DON" />
+      <edge id="676" source="S_77" target="C_SONNY" />
+      <edge id="677" source="S_200" target="C_LAMPONE" />
+      <edge id="678" source="S_193" target="C_ROCCO LAMPONE" />
+      <edge id="679" source="S_79" target="C_MICHAEL" />
+      <edge id="680" source="S_78" target="C_MICHAEL" />
+      <edge id="681" source="C_SONNY" target="S_125" />
+      <edge id="682" source="C_SONNY" target="S_3" />
+      <edge id="683" source="C_SONNY" target="S_2" />
+      <edge id="684" source="C_SONNY" target="S_130" />
+      <edge id="685" source="C_SONNY" target="S_54" />
+      <edge id="686" source="C_SONNY" target="S_57" />
+      <edge id="687" source="C_SONNY" target="S_56" />
+      <edge id="688" source="C_SONNY" target="S_91" />
+      <edge id="689" source="C_SONNY" target="S_77" />
+      <edge id="690" source="C_SONNY" target="S_85" />
+      <edge id="691" source="C_SONNY" target="S_94" />
+      <edge id="692" source="C_SONNY" target="S_116" />
+      <edge id="693" source="C_SONNY" target="S_20" />
+      <edge id="694" source="C_SONNY" target="S_66" />
+      <edge id="695" source="C_SONNY" target="S_93" />
+      <edge id="696" source="C_SONNY" target="S_114" />
+      <edge id="697" source="C_SONNY" target="S_115" />
+      <edge id="698" source="C_SONNY" target="S_19" />
+      <edge id="699" source="C_SONNY" target="S_63" />
+      <edge id="700" source="C_SONNY" target="S_28" />
+      <edge id="701" source="C_SONNY" target="S_39" />
+      <edge id="702" source="S_72" target="C_PAULIE" />
+      <edge id="703" source="S_70" target="C_LAMPONE" />
+      <edge id="704" source="S_70" target="C_PAULIE" />
+      <edge id="705" source="S_70" target="C_GATTO" />
+      <edge id="706" source="S_76" target="C_MICHAEL" />
+      <edge id="707" source="S_75" target="C_LAMPONE" />
+      <edge id="708" source="S_75" target="C_PAULIE" />
+      <edge id="709" source="S_74" target="C_LAMPONE" />
+      <edge id="710" source="S_74" target="C_PAULIE" />
+    </edges>
+  </graph>
+</gexf>

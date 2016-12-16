@@ -1,0 +1,1783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="true_label" type="string" />
+      <attribute id="1" title="predicted_correctly" type="string" />
+      <attribute id="2" title="predicted_label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="MIKE" label="MIKE" />
+      <node id="JOHNNY" label="JOHNNY" />
+      <node id="PAULIE GATTO" label="PAULIE GATTO" />
+      <node id="SONNY" label="SONNY" />
+      <node id="DON PHILLIP TATTAGLIA" label="DON PHILLIP TATTAGLIA" />
+      <node id="GIRL" label="GIRL" />
+      <node id="VOICE" label="VOICE" />
+      <node id="BUTTON MAN" label="BUTTON MAN" />
+      <node id="WOMAN" label="WOMAN" />
+      <node id="THERESA" label="THERESA" />
+      <node id="CARLO RIZZI" label="CARLO RIZZI" />
+      <node id="FRANK FALCONE" label="FRANK FALCONE" />
+      <node id="WOLTZ" label="WOLTZ" />
+      <node id="CARLO" label="CARLO" />
+      <node id="LUNA AZURA" label="LUNA AZURA" />
+      <node id="BAKER" label="BAKER" />
+      <node id="ANTHONY MOLINARI" label="ANTHONY MOLINARI" />
+      <node id="GENCO" label="GENCO" />
+      <node id="BRUNO" label="BRUNO" />
+      <node id="HAGEN" label="HAGEN" />
+      <node id="KAY" label="KAY" />
+      <node id="DON CORLEONE" label="DON CORLEONE" />
+      <node id="MAN" label="MAN" />
+      <node id="ENZO" label="ENZO" />
+      <node id="DEN" label="DEN" />
+      <node id="MCCLUSKEY" label="MCCLUSKEY" />
+      <node id="NURSE" label="NURSE" />
+      <node id="TESSIO" label="TESSIO" />
+      <node id="GREENE" label="GREENE" />
+      <node id="NAZORINE" label="NAZORINE" />
+      <node id="DON ZALUCHI" label="DON ZALUCHI" />
+      <node id="MAN 2" label="MAN 2" />
+      <node id="A DETECTIVE" label="A DETECTIVE" />
+      <node id="DRIVER" label="DRIVER" />
+      <node id="MICHAEL" label="MICHAEL" />
+      <node id="VITELLI" label="VITELLI" />
+      <node id="MAMA" label="MAMA" />
+      <node id="CORLEONE" label="CORLEONE" />
+      <node id="DOMENICK PANZA" label="DOMENICK PANZA" />
+      <node id="FREDO" label="FREDO" />
+      <node id="SOLLOZZO" label="SOLLOZZO" />
+      <node id="TATTAGLIA" label="TATTAGLIA" />
+      <node id="LEWIS" label="LEWIS" />
+      <node id="FABRIZZIO" label="FABRIZZIO" />
+      <node id="PAULIE" label="PAULIE" />
+      <node id="COP" label="COP" />
+      <node id="DON" label="DON" />
+      <node id="SONNY CORLEONE" label="SONNY CORLEONE" />
+      <node id="LUCA NODS" label="LUCA NODS" />
+      <node id="CONNIE" label="CONNIE" />
+      <node id="ROCCO LAMPONE" label="ROCCO LAMPONE" />
+      <node id="LUCA BRASI" label="LUCA BRASI" />
+      <node id="JOSEPH ZALUCHI" label="JOSEPH ZALUCHI" />
+      <node id="BARZINI" label="BARZINI" />
+      <node id="KAY ADAMS" label="KAY ADAMS" />
+      <node id="GATTO" label="GATTO" />
+      <node id="NERI" label="NERI" />
+      <node id="CLEMENZA" label="CLEMENZA" />
+      <node id="PETER CLEMENZA" label="PETER CLEMENZA" />
+      <node id="AMERIGO BONASERA" label="AMERIGO BONASERA" />
+      <node id="CUNEO" label="CUNEO" />
+      <node id="EMILIO BARZINI" label="EMILIO BARZINI" />
+      <node id="LUCY" label="LUCY" />
+      <node id="OTTILIO CUNEO" label="OTTILIO CUNEO" />
+      <node id="BONASERA" label="BONASERA" />
+      <node id="LUCA" label="LUCA" />
+      <node id="CONNIE'S VOICE" label="CONNIE'S VOICE" />
+      <node id="APPOLONIA" label="APPOLONIA" />
+      <node id="MARY" label="MARY" />
+      <node id="BRUNO TATTAGLIA" label="BRUNO TATTAGLIA" />
+      <node id="ANTHONY STRACCI" label="ANTHONY STRACCI" />
+      <node id="SANDRA" label="SANDRA" />
+      <node id="MANCINI" label="MANCINI" />
+      <node id="LAMPONE" label="LAMPONE" />
+      <node id="OFFICE MANAGER" label="OFFICE MANAGER" />
+      <node id="DON TOMMASSINO" label="DON TOMMASSINO" />
+      <node id="JOHNNY FONTANE" label="JOHNNY FONTANE" />
+      <node id="THE GODFATHER" label="THE GODFATHER" />
+      <node id="LUCY MANCINI" label="LUCY MANCINI" />
+      <node id="ROCCO" label="ROCCO" />
+      <node id="TOM HAGEN" label="TOM HAGEN" />
+      <node id="DON VINCENENZO FORLENZA" label="DON VINCENENZO FORLENZA" />
+      <node id="THERESA HAGEN" label="THERESA HAGEN" />
+      <node id="MRS. BONASERA" label="MRS. BONASERA" />
+      <node id="GRETEL" label="GRETEL" />
+      <node id="PRIEST" label="PRIEST" />
+      <node id="MOE" label="MOE" />
+      <node id="CALO" label="CALO" />
+    </nodes>
+    <edges>
+      <edge id="0" source="JOHNNY" target="NERI" weight="1" />
+      <edge id="1" source="JOHNNY" target="SONNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="JOHNNY" target="DON" weight="1" />
+      <edge id="3" source="JOHNNY" target="JOHNNY FONTANE" weight="1" />
+      <edge id="4" source="JOHNNY" target="HAGEN" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="JOHNNY" target="FREDO" weight="1" />
+      <edge id="6" source="JOHNNY" target="MICHAEL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="JOHNNY" target="GREENE" weight="1" />
+      <edge id="8" source="JOHNNY" target="DON CORLEONE" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="JOHNNY" target="KAY" weight="1" />
+      <edge id="10" source="JOHNNY" target="MOE" weight="1" />
+      <edge id="11" source="SONNY" target="DON" weight="15" />
+      <edge id="12" source="SONNY" target="JOHNNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="SONNY" target="PAULIE GATTO" weight="1" />
+      <edge id="14" source="SONNY" target="MANCINI" weight="1" />
+      <edge id="15" source="SONNY" target="BRUNO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="SONNY" target="CONNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="SONNY" target="SANDRA" weight="2">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="SONNY" target="NURSE" weight="1" />
+      <edge id="19" source="SONNY" target="VOICE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="SONNY" target="LUCA BRASI" weight="2" />
+      <edge id="21" source="SONNY" target="BARZINI" weight="1" />
+      <edge id="22" source="SONNY" target="LUCY MANCINI" weight="2" />
+      <edge id="23" source="SONNY" target="THERESA" weight="2" />
+      <edge id="24" source="SONNY" target="CARLO RIZZI" weight="1" />
+      <edge id="25" source="SONNY" target="TOM HAGEN" weight="2" />
+      <edge id="26" source="SONNY" target="TESSIO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="SONNY" target="DRIVER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="SONNY" target="MICHAEL" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="SONNY" target="CLEMENZA" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="SONNY" target="PAULIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="SONNY" target="PETER CLEMENZA" weight="1" />
+      <edge id="32" source="SONNY" target="HAGEN" weight="11">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="SONNY" target="FREDO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="SONNY" target="SOLLOZZO" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="SONNY" target="DON CORLEONE" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="SONNY" target="CONNIE'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="SONNY" target="MAMA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="SONNY" target="KAY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="SONNY" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="40" source="GIRL" target="NERI" weight="1" />
+      <edge id="41" source="GIRL" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="GIRL" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="GIRL" target="CONNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="GIRL" target="TESSIO" weight="1" />
+      <edge id="45" source="VOICE" target="SONNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="VOICE" target="DON" weight="1" />
+      <edge id="47" source="VOICE" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="VOICE" target="SOLLOZZO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="VOICE" target="CLEMENZA" weight="1" />
+      <edge id="50" source="VOICE" target="SANDRA" weight="1" />
+      <edge id="51" source="VOICE" target="NURSE" weight="1" />
+      <edge id="52" source="BUTTON MAN" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="BUTTON MAN" target="TESSIO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="WOMAN" target="SONNY" weight="1" />
+      <edge id="55" source="WOMAN" target="LUCY MANCINI" weight="1" />
+      <edge id="56" source="WOMAN" target="PAULIE GATTO" weight="1" />
+      <edge id="57" source="WOMAN" target="CARLO RIZZI" weight="1" />
+      <edge id="58" source="WOMAN" target="SANDRA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="WOMAN" target="PAULIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="WOMAN" target="CARLO" weight="1" />
+      <edge id="61" source="WOLTZ" target="HAGEN" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="CARLO" target="TESSIO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="CARLO" target="SONNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="CARLO" target="WOMAN" weight="1" />
+      <edge id="65" source="CARLO" target="DON" weight="2" />
+      <edge id="66" source="CARLO" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="2" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="CARLO" target="HAGEN" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="CARLO" target="LUCY MANCINI" weight="1" />
+      <edge id="69" source="CARLO" target="PAULIE GATTO" weight="1" />
+      <edge id="70" source="CARLO" target="MICHAEL" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="CARLO" target="CARLO RIZZI" weight="1" />
+      <edge id="72" source="CARLO" target="NERI" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="CARLO" target="CONNIE" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="CARLO" target="SANDRA" weight="1" />
+      <edge id="75" source="CARLO" target="LAMPONE" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="CARLO" target="GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="CARLO" target="PAULIE" weight="1" />
+      <edge id="78" source="CARLO" target="DEN" weight="1" />
+      <edge id="79" source="CARLO" target="CLEMENZA" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="GENCO" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="GENCO" target="JOHNNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="BRUNO" target="SONNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="BRUNO" target="DON" weight="1" />
+      <edge id="84" source="BRUNO" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="BRUNO" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="BRUNO" target="PAULIE GATTO" weight="1" />
+      <edge id="87" source="BRUNO" target="LUCA BRASI" weight="1" />
+      <edge id="88" source="BRUNO" target="SOLLOZZO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="BRUNO" target="CLEMENZA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="BRUNO" target="PAULIE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="BRUNO" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="92" source="HAGEN" target="SONNY" weight="10">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="HAGEN" target="DON" weight="21" />
+      <edge id="94" source="HAGEN" target="JOHNNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="HAGEN" target="PAULIE GATTO" weight="1" />
+      <edge id="96" source="HAGEN" target="BRUNO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="HAGEN" target="DEN" weight="1" />
+      <edge id="98" source="HAGEN" target="BUTTON MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="HAGEN" target="BONASERA" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="HAGEN" target="THERESA" weight="1" />
+      <edge id="101" source="HAGEN" target="WOLTZ" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="HAGEN" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="HAGEN" target="LUCA" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="HAGEN" target="TOM HAGEN" weight="5" />
+      <edge id="105" source="HAGEN" target="KAY ADAMS" weight="1" />
+      <edge id="106" source="HAGEN" target="TESSIO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="HAGEN" target="NAZORINE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="HAGEN" target="MICHAEL" weight="9">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="HAGEN" target="LUCA BRASI" weight="3" />
+      <edge id="110" source="HAGEN" target="NERI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="HAGEN" target="CORLEONE" weight="1" />
+      <edge id="112" source="HAGEN" target="CLEMENZA" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="HAGEN" target="PAULIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="HAGEN" target="AMERIGO BONASERA" weight="1" />
+      <edge id="115" source="HAGEN" target="FREDO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="HAGEN" target="LUCY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="HAGEN" target="MRS. BONASERA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="HAGEN" target="SOLLOZZO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="HAGEN" target="GRETEL" weight="1" />
+      <edge id="120" source="HAGEN" target="DON CORLEONE" weight="9">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="HAGEN" target="MAMA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="HAGEN" target="KAY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="HAGEN" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="124" source="KAY" target="SONNY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="KAY" target="DON" weight="3" />
+      <edge id="126" source="KAY" target="JOHNNY" weight="1" />
+      <edge id="127" source="KAY" target="CONNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="KAY" target="LUCA BRASI" weight="1" />
+      <edge id="129" source="KAY" target="JOHNNY FONTANE" weight="1" />
+      <edge id="130" source="KAY" target="TOM HAGEN" weight="2" />
+      <edge id="131" source="KAY" target="KAY ADAMS" weight="1" />
+      <edge id="132" source="KAY" target="MICHAEL" weight="11">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="KAY" target="NERI" weight="1" />
+      <edge id="134" source="KAY" target="CORLEONE" weight="1" />
+      <edge id="135" source="KAY" target="CLEMENZA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="KAY" target="HAGEN" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="KAY" target="LUCA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="KAY" target="MAMA" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="KAY" target="MARY" weight="1" />
+      <edge id="140" source="KAY" target="DON CORLEONE" weight="1" />
+      <edge id="141" source="DON CORLEONE" target="HAGEN" weight="14">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="DON CORLEONE" target="SONNY" weight="6">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="DON CORLEONE" target="THE GODFATHER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="DON CORLEONE" target="DON" weight="21" />
+      <edge id="145" source="DON CORLEONE" target="JOHNNY" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="DON CORLEONE" target="ANTHONY STRACCI" weight="1" />
+      <edge id="147" source="DON CORLEONE" target="DEN" weight="1" />
+      <edge id="148" source="DON CORLEONE" target="SANDRA" weight="1" />
+      <edge id="149" source="DON CORLEONE" target="OFFICE MANAGER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="DON CORLEONE" target="TESSIO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="DON CORLEONE" target="LUCA BRASI" weight="1" />
+      <edge id="152" source="DON CORLEONE" target="JOSEPH ZALUCHI" weight="1" />
+      <edge id="153" source="DON CORLEONE" target="JOHNNY FONTANE" weight="1" />
+      <edge id="154" source="DON CORLEONE" target="BONASERA" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="DON CORLEONE" target="BARZINI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="DON CORLEONE" target="LUCY MANCINI" weight="1" />
+      <edge id="157" source="DON CORLEONE" target="THERESA" weight="1" />
+      <edge id="158" source="DON CORLEONE" target="CARLO RIZZI" weight="1" />
+      <edge id="159" source="DON CORLEONE" target="FRANK FALCONE" weight="1" />
+      <edge id="160" source="DON CORLEONE" target="NAZORINE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="DON CORLEONE" target="DON ZALUCHI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="DON CORLEONE" target="TOM HAGEN" weight="4" />
+      <edge id="163" source="DON CORLEONE" target="DOMENICK PANZA" weight="1" />
+      <edge id="164" source="DON CORLEONE" target="MICHAEL" weight="8">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="DON CORLEONE" target="NERI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="DON CORLEONE" target="ANTHONY MOLINARI" weight="1" />
+      <edge id="167" source="DON CORLEONE" target="CLEMENZA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="DON CORLEONE" target="DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="169" source="DON CORLEONE" target="GENCO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="DON CORLEONE" target="AMERIGO BONASERA" weight="1" />
+      <edge id="171" source="DON CORLEONE" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="DON CORLEONE" target="FREDO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="DON CORLEONE" target="EMILIO BARZINI" weight="1" />
+      <edge id="174" source="DON CORLEONE" target="OTTILIO CUNEO" weight="1" />
+      <edge id="175" source="DON CORLEONE" target="SOLLOZZO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="DON CORLEONE" target="TATTAGLIA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="DON CORLEONE" target="LUCA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="DON CORLEONE" target="KAY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="DON CORLEONE" target="SONNY CORLEONE" weight="2" />
+      <edge id="180" source="DON CORLEONE" target="DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="181" source="MAN" target="MAN 2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="MAN" target="MICHAEL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="MAN" target="SOLLOZZO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="MAN" target="LUCA NODS" weight="1" />
+      <edge id="185" source="MAN" target="LUCA" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="MAN" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="187" source="ENZO" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="MCCLUSKEY" target="ENZO" weight="1" />
+      <edge id="189" source="MCCLUSKEY" target="COP" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="MCCLUSKEY" target="MIKE" weight="1" />
+      <edge id="191" source="MCCLUSKEY" target="DON" weight="1" />
+      <edge id="192" source="MCCLUSKEY" target="LUNA AZURA" weight="1" />
+      <edge id="193" source="MCCLUSKEY" target="A DETECTIVE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="MCCLUSKEY" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="MCCLUSKEY" target="BAKER" weight="1" />
+      <edge id="196" source="MCCLUSKEY" target="MICHAEL" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="MCCLUSKEY" target="SOLLOZZO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="NURSE" target="DON" weight="2" />
+      <edge id="199" source="NURSE" target="SONNY" weight="1" />
+      <edge id="200" source="NURSE" target="VOICE" weight="1" />
+      <edge id="201" source="NURSE" target="MICHAEL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="TESSIO" target="BUTTON MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="TESSIO" target="DON" weight="4" />
+      <edge id="204" source="TESSIO" target="HAGEN" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="TESSIO" target="LUCA BRASI" weight="1" />
+      <edge id="206" source="TESSIO" target="MICHAEL" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="TESSIO" target="SONNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="TESSIO" target="NERI" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="TESSIO" target="CLEMENZA" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="TESSIO" target="DEN" weight="1" />
+      <edge id="211" source="TESSIO" target="LAMPONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="TESSIO" target="GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="TESSIO" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="TESSIO" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="NAZORINE" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="NAZORINE" target="DON" weight="1" />
+      <edge id="217" source="NAZORINE" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="DON ZALUCHI" target="DOMENICK PANZA" weight="1" />
+      <edge id="219" source="DON ZALUCHI" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="DON ZALUCHI" target="JOSEPH ZALUCHI" weight="1" />
+      <edge id="221" source="DON ZALUCHI" target="DON" weight="1" />
+      <edge id="222" source="DON ZALUCHI" target="TOM HAGEN" weight="1" />
+      <edge id="223" source="DON ZALUCHI" target="BARZINI" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="DON ZALUCHI" target="OTTILIO CUNEO" weight="1" />
+      <edge id="225" source="DON ZALUCHI" target="DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="226" source="DON ZALUCHI" target="FRANK FALCONE" weight="1" />
+      <edge id="227" source="DON ZALUCHI" target="DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="228" source="DON ZALUCHI" target="ANTHONY MOLINARI" weight="1" />
+      <edge id="229" source="DON ZALUCHI" target="ANTHONY STRACCI" weight="1" />
+      <edge id="230" source="DON ZALUCHI" target="EMILIO BARZINI" weight="1" />
+      <edge id="231" source="DON ZALUCHI" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="DON ZALUCHI" target="TATTAGLIA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="MAN 2" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="MAN 2" target="MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="A DETECTIVE" target="ENZO" weight="1" />
+      <edge id="236" source="A DETECTIVE" target="COP" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="A DETECTIVE" target="DON" weight="1" />
+      <edge id="238" source="A DETECTIVE" target="HAGEN" weight="1" />
+      <edge id="239" source="A DETECTIVE" target="BAKER" weight="1" />
+      <edge id="240" source="A DETECTIVE" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="A DETECTIVE" target="MCCLUSKEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="DRIVER" target="NERI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="DRIVER" target="LUCY MANCINI" weight="1" />
+      <edge id="244" source="DRIVER" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="DRIVER" target="SONNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="MICHAEL" target="ENZO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="MICHAEL" target="COP" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="MICHAEL" target="MIKE" weight="1" />
+      <edge id="249" source="MICHAEL" target="DON" weight="16" />
+      <edge id="250" source="MICHAEL" target="DEN" weight="1" />
+      <edge id="251" source="MICHAEL" target="JOHNNY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="MICHAEL" target="PAULIE GATTO" weight="1" />
+      <edge id="253" source="MICHAEL" target="SONNY" weight="9">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="MICHAEL" target="CONNIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="MICHAEL" target="MCCLUSKEY" weight="4">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="2" />
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="MICHAEL" target="LAMPONE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="MICHAEL" target="GIRL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="MICHAEL" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="MICHAEL" target="NURSE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="MICHAEL" target="TESSIO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="MICHAEL" target="LUCA BRASI" weight="1" />
+      <edge id="262" source="MICHAEL" target="DON TOMMASSINO" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="MICHAEL" target="JOHNNY FONTANE" weight="2" />
+      <edge id="264" source="MICHAEL" target="THERESA" weight="2" />
+      <edge id="265" source="MICHAEL" target="GREENE" weight="1" />
+      <edge id="266" source="MICHAEL" target="CARLO" weight="4">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="MICHAEL" target="LUCA" weight="1" />
+      <edge id="268" source="MICHAEL" target="TOM HAGEN" weight="4" />
+      <edge id="269" source="MICHAEL" target="LUNA AZURA" weight="2" />
+      <edge id="270" source="MICHAEL" target="A DETECTIVE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="MICHAEL" target="BAKER" weight="1" />
+      <edge id="272" source="MICHAEL" target="CALO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="MICHAEL" target="NERI" weight="5">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="MICHAEL" target="CORLEONE" weight="2" />
+      <edge id="275" source="MICHAEL" target="CLEMENZA" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="MICHAEL" target="KAY" weight="11">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="MICHAEL" target="VITELLI" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="MICHAEL" target="HAGEN" weight="14">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="MICHAEL" target="THERESA HAGEN" weight="1" />
+      <edge id="280" source="MICHAEL" target="FREDO" weight="5">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="MICHAEL" target="MARY" weight="1" />
+      <edge id="282" source="MICHAEL" target="SOLLOZZO" weight="3">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="MICHAEL" target="PRIEST" weight="3">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="MICHAEL" target="MOE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="MICHAEL" target="APPOLONIA" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="MICHAEL" target="FABRIZZIO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="MICHAEL" target="DON CORLEONE" weight="7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="MICHAEL" target="MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="VITELLI" target="FABRIZZIO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="VITELLI" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="VITELLI" target="CALO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="MAMA" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="MAMA" target="KAY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="MAMA" target="DON" weight="2" />
+      <edge id="295" source="MAMA" target="SONNY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="FREDO" target="TOM HAGEN" weight="1" />
+      <edge id="297" source="FREDO" target="GREENE" weight="1" />
+      <edge id="298" source="FREDO" target="DON" weight="2" />
+      <edge id="299" source="FREDO" target="JOHNNY FONTANE" weight="1" />
+      <edge id="300" source="FREDO" target="JOHNNY" weight="1" />
+      <edge id="301" source="FREDO" target="HAGEN" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="FREDO" target="MICHAEL" weight="5">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="FREDO" target="SONNY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="FREDO" target="NERI" weight="1" />
+      <edge id="305" source="FREDO" target="MOE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="FREDO" target="LEWIS" weight="1" />
+      <edge id="307" source="FREDO" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="5" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="SOLLOZZO" target="SONNY" weight="3">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="SOLLOZZO" target="DON" weight="2" />
+      <edge id="310" source="SOLLOZZO" target="PAULIE GATTO" weight="1" />
+      <edge id="311" source="SOLLOZZO" target="MIKE" weight="1" />
+      <edge id="312" source="SOLLOZZO" target="LUCA NODS" weight="1" />
+      <edge id="313" source="SOLLOZZO" target="BRUNO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="SOLLOZZO" target="MCCLUSKEY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="SOLLOZZO" target="VOICE" weight="1" />
+      <edge id="316" source="SOLLOZZO" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="SOLLOZZO" target="LUCA BRASI" weight="1" />
+      <edge id="318" source="SOLLOZZO" target="SANDRA" weight="1" />
+      <edge id="319" source="SOLLOZZO" target="LUNA AZURA" weight="1" />
+      <edge id="320" source="SOLLOZZO" target="MICHAEL" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="SOLLOZZO" target="CLEMENZA" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="SOLLOZZO" target="PAULIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="SOLLOZZO" target="HAGEN" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="SOLLOZZO" target="GRETEL" weight="1" />
+      <edge id="325" source="SOLLOZZO" target="LUCA" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="SOLLOZZO" target="BRUNO TATTAGLIA" weight="2" />
+      <edge id="327" source="SOLLOZZO" target="MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="TATTAGLIA" target="TOM HAGEN" weight="1" />
+      <edge id="329" source="TATTAGLIA" target="DON" weight="1" />
+      <edge id="330" source="TATTAGLIA" target="EMILIO BARZINI" weight="1" />
+      <edge id="331" source="TATTAGLIA" target="DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="332" source="TATTAGLIA" target="FRANK FALCONE" weight="1" />
+      <edge id="333" source="TATTAGLIA" target="ANTHONY MOLINARI" weight="1" />
+      <edge id="334" source="TATTAGLIA" target="ANTHONY STRACCI" weight="1" />
+      <edge id="335" source="TATTAGLIA" target="DOMENICK PANZA" weight="1" />
+      <edge id="336" source="TATTAGLIA" target="JOSEPH ZALUCHI" weight="1" />
+      <edge id="337" source="TATTAGLIA" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="TATTAGLIA" target="OTTILIO CUNEO" weight="1" />
+      <edge id="339" source="TATTAGLIA" target="BARZINI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="TATTAGLIA" target="DON ZALUCHI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="TATTAGLIA" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="TATTAGLIA" target="DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="343" source="FABRIZZIO" target="VITELLI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="344" source="FABRIZZIO" target="MICHAEL" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="FABRIZZIO" target="CALO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="PAULIE" target="SONNY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="347" source="PAULIE" target="DON" weight="1" />
+      <edge id="348" source="PAULIE" target="PAULIE GATTO" weight="2" />
+      <edge id="349" source="PAULIE" target="ROCCO LAMPONE" weight="1" />
+      <edge id="350" source="PAULIE" target="LAMPONE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="PAULIE" target="SANDRA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="PAULIE" target="LUCA BRASI" weight="1" />
+      <edge id="353" source="PAULIE" target="WOMAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="354" source="PAULIE" target="BARZINI" weight="1" />
+      <edge id="355" source="PAULIE" target="LUCY MANCINI" weight="1" />
+      <edge id="356" source="PAULIE" target="CARLO RIZZI" weight="1" />
+      <edge id="357" source="PAULIE" target="ROCCO" weight="1" />
+      <edge id="358" source="PAULIE" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="PAULIE" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="PAULIE" target="GATTO" weight="1" />
+      <edge id="361" source="PAULIE" target="CLEMENZA" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="PAULIE" target="PETER CLEMENZA" weight="1" />
+      <edge id="363" source="PAULIE" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="364" source="PAULIE" target="SOLLOZZO" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="365" source="PAULIE" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="366" source="PAULIE" target="DON CORLEONE" weight="1" />
+      <edge id="367" source="PAULIE" target="BRUNO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="COP" target="ENZO" weight="1" />
+      <edge id="369" source="COP" target="DON" weight="1" />
+      <edge id="370" source="COP" target="A DETECTIVE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="COP" target="HAGEN" weight="1" />
+      <edge id="372" source="COP" target="BAKER" weight="1" />
+      <edge id="373" source="COP" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="COP" target="MCCLUSKEY" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="375" source="CONNIE" target="SONNY" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="CONNIE" target="DON" weight="3" />
+      <edge id="377" source="CONNIE" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="CONNIE" target="MICHAEL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="CONNIE" target="NERI" weight="1" />
+      <edge id="380" source="CONNIE" target="CORLEONE" weight="1" />
+      <edge id="381" source="CONNIE" target="CONNIE'S VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="CONNIE" target="LAMPONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="2" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="CONNIE" target="GIRL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="384" source="CONNIE" target="CARLO" weight="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="CONNIE" target="KAY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="BARZINI" target="TOM HAGEN" weight="1" />
+      <edge id="387" source="BARZINI" target="DON" weight="1" />
+      <edge id="388" source="BARZINI" target="EMILIO BARZINI" weight="1" />
+      <edge id="389" source="BARZINI" target="DON VINCENENZO FORLENZA" weight="1" />
+      <edge id="390" source="BARZINI" target="FRANK FALCONE" weight="1" />
+      <edge id="391" source="BARZINI" target="ANTHONY MOLINARI" weight="1" />
+      <edge id="392" source="BARZINI" target="ANTHONY STRACCI" weight="1" />
+      <edge id="393" source="BARZINI" target="DOMENICK PANZA" weight="1" />
+      <edge id="394" source="BARZINI" target="JOSEPH ZALUCHI" weight="1" />
+      <edge id="395" source="BARZINI" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="BARZINI" target="OTTILIO CUNEO" weight="1" />
+      <edge id="397" source="BARZINI" target="TATTAGLIA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="BARZINI" target="DON ZALUCHI" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="2" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="BARZINI" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="BARZINI" target="DON PHILLIP TATTAGLIA" weight="1" />
+      <edge id="401" source="NERI" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="NERI" target="DRIVER" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="403" source="CLEMENZA" target="SONNY" weight="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="CLEMENZA" target="DON" weight="7" />
+      <edge id="405" source="CLEMENZA" target="PAULIE GATTO" weight="2" />
+      <edge id="406" source="CLEMENZA" target="DEN" weight="1" />
+      <edge id="407" source="CLEMENZA" target="ROCCO LAMPONE" weight="2" />
+      <edge id="408" source="CLEMENZA" target="LAMPONE" weight="5">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="CLEMENZA" target="VOICE" weight="1" />
+      <edge id="410" source="CLEMENZA" target="SANDRA" weight="1" />
+      <edge id="411" source="CLEMENZA" target="LUCA BRASI" weight="1" />
+      <edge id="412" source="CLEMENZA" target="BARZINI" weight="1" />
+      <edge id="413" source="CLEMENZA" target="THERESA" weight="1" />
+      <edge id="414" source="CLEMENZA" target="ROCCO" weight="1" />
+      <edge id="415" source="CLEMENZA" target="CARLO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="CLEMENZA" target="TESSIO" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="CLEMENZA" target="MICHAEL" weight="10">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="CLEMENZA" target="NERI" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="CLEMENZA" target="GATTO" weight="2" />
+      <edge id="420" source="CLEMENZA" target="PAULIE" weight="8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="CLEMENZA" target="PETER CLEMENZA" weight="1" />
+      <edge id="422" source="CLEMENZA" target="HAGEN" weight="5">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="423" source="CLEMENZA" target="THERESA HAGEN" weight="1" />
+      <edge id="424" source="CLEMENZA" target="SOLLOZZO" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="CLEMENZA" target="DON CORLEONE" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="CLEMENZA" target="KAY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="CLEMENZA" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="428" source="CLEMENZA" target="BRUNO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="LUCY" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="LUCY" target="DON" weight="1" />
+      <edge id="431" source="BONASERA" target="TOM HAGEN" weight="1" />
+      <edge id="432" source="BONASERA" target="SONNY" weight="1" />
+      <edge id="433" source="BONASERA" target="DON" weight="2" />
+      <edge id="434" source="BONASERA" target="AMERIGO BONASERA" weight="2" />
+      <edge id="435" source="BONASERA" target="HAGEN" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="436" source="BONASERA" target="MRS. BONASERA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="437" source="BONASERA" target="THE GODFATHER" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="438" source="BONASERA" target="SONNY CORLEONE" weight="2" />
+      <edge id="439" source="BONASERA" target="DON CORLEONE" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="440" source="LUCA" target="DON" weight="1" />
+      <edge id="441" source="LUCA" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="442" source="LUCA" target="SOLLOZZO" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="443" source="LUCA" target="LUCA NODS" weight="1" />
+      <edge id="444" source="LUCA" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="445" source="LUCA" target="BRUNO TATTAGLIA" weight="1" />
+      <edge id="446" source="LUCA" target="MAN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="447" source="CONNIE'S VOICE" target="SONNY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="448" source="CONNIE'S VOICE" target="CONNIE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="449" source="APPOLONIA" target="VITELLI" weight="1">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="450" source="APPOLONIA" target="MICHAEL" weight="3">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="451" source="APPOLONIA" target="DON TOMMASSINO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="452" source="APPOLONIA" target="CALO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="453" source="SANDRA" target="TOM HAGEN" weight="1" />
+      <edge id="454" source="SANDRA" target="SONNY" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="455" source="SANDRA" target="DON" weight="1" />
+      <edge id="456" source="SANDRA" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="457" source="SANDRA" target="LUCY MANCINI" weight="1" />
+      <edge id="458" source="SANDRA" target="FREDO" weight="1" />
+      <edge id="459" source="SANDRA" target="THERESA" weight="1" />
+      <edge id="460" source="SANDRA" target="CARLO RIZZI" weight="1" />
+      <edge id="461" source="SANDRA" target="SOLLOZZO" weight="1" />
+      <edge id="462" source="SANDRA" target="CLEMENZA" weight="1" />
+      <edge id="463" source="SANDRA" target="VOICE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="464" source="SANDRA" target="DON CORLEONE" weight="1" />
+      <edge id="465" source="LAMPONE" target="GATTO" weight="1" />
+      <edge id="466" source="LAMPONE" target="SOLLOZZO" weight="1" />
+      <edge id="467" source="LAMPONE" target="ROCCO LAMPONE" weight="1" />
+      <edge id="468" source="LAMPONE" target="PAULIE" weight="2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="469" source="LAMPONE" target="ROCCO" weight="1" />
+      <edge id="470" source="LAMPONE" target="CLEMENZA" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="471" source="OFFICE MANAGER" target="DON" weight="1" />
+      <edge id="472" source="OFFICE MANAGER" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="473" source="DON TOMMASSINO" target="APPOLONIA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="474" source="DON TOMMASSINO" target="MICHAEL" weight="2">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="475" source="THE GODFATHER" target="TOM HAGEN" weight="1" />
+      <edge id="476" source="THE GODFATHER" target="DON" weight="1" />
+      <edge id="477" source="THE GODFATHER" target="AMERIGO BONASERA" weight="1" />
+      <edge id="478" source="THE GODFATHER" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="479" source="THE GODFATHER" target="SONNY CORLEONE" weight="1" />
+      <edge id="480" source="THE GODFATHER" target="SONNY" weight="1" />
+      <edge id="481" source="THE GODFATHER" target="BONASERA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="482" source="THE GODFATHER" target="DON CORLEONE" weight="1">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="483" source="MRS. BONASERA" target="HAGEN" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="484" source="MRS. BONASERA" target="BONASERA" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="485" source="MRS. BONASERA" target="AMERIGO BONASERA" weight="1" />
+      <edge id="486" source="PRIEST" target="CUNEO" weight="1" />
+      <edge id="487" source="PRIEST" target="MICHAEL" weight="4">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="488" source="MOE" target="NERI" weight="1" />
+      <edge id="489" source="MOE" target="GREENE" weight="1" />
+      <edge id="490" source="MOE" target="FREDO" weight="1">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="491" source="MOE" target="MICHAEL" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="492" source="MOE" target="JOHNNY" weight="1">
+        <attvalues>
+          <attvalue for="1" value="no" />
+          <attvalue for="2" value="3" />
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="493" source="CALO" target="VITELLI" weight="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="494" source="CALO" target="MICHAEL" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="495" source="CALO" target="CORLEONE" weight="1" />
+      <edge id="496" source="CALO" target="FABRIZZIO" weight="2">
+        <attvalues>
+          <attvalue for="1" value="yes" />
+          <attvalue for="2" value="4" />
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
